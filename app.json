@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/mesutgulecen/zincir-akademi"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "zincir-akademi",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
