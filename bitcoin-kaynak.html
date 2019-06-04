@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <title>Bitcoin Kitaplığı</title>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="google-site-verification" content="R0dzeFRj3Xe_EeN3ckdmdqfm7tbk27eyWcfmTvWtfzE" />
+  <meta name="keywords" content="bitcoin, bitcoin nasıl çalışır, bitcoin nedir, bitcoin satın al, crypto, blockchain, blokzinciri, transactions" />
+  <meta name="Robots" content="index,follow" />
+  <meta name="description" content="Bitcoin hakkında kapsamlı bir Türkçe eğitici içerik kitaplığı.">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:description" content="Bitcoin hakkında kapsamlı Türkçe eğitici içerik kitaplığı. />
+  <meta name="twitter:title" content="Zincir Akademi Bitcoin Kitaplığı" />
+  <meta name="twitter:site" content="@mesutgulecen" />
+  <meta name="twitter:creator" content="@mesutgulecen" />
+  <meta name="twitter:image" content="https://www.zincirakademi.com/images/avatar.png" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="Bitcoin hakkında kapsamlı Türkçe eğitici içerik kitaplığı." />
+  <meta property="og:image" content="https://www.zincirakademi.com/images/avatar.png" />
+  <meta property="og:url" content="https://www.zincirakademi/bitcoin-kaynak.html" />
+  <meta property="og:site_name" content="Zincir Akademi Bitcoin Kitaplığı" />
+
+  <link rel="shortcut icon" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+  <link rel="stylesheet" href="css/bootstrap.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/overpassmono.css" />
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script>
+    function MM_swapImgRestore() { //v3.0
+      var i, x, a = document.MM_sr;
+      for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+    }
+
+    function MM_preloadImages() { //v3.0
+      var d = document;
+      if (d.images) {
+        if (!d.MM_p) d.MM_p = new Array();
+        var i, j = d.MM_p.length,
+          a = MM_preloadImages.arguments;
+        for (i = 0; i < a.length; i++)
+          if (a[i].indexOf("#") != 0) {
+            d.MM_p[j] = new Image;
+            d.MM_p[j++].src = a[i];
+          }
+      }
+    }
+
+    function MM_findObj(n, d) { //v4.01
+      var p, i, x;
+      if (!d) d = document;
+      if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+        d = parent.frames[n.substring(p + 1)].document;
+        n = n.substring(0, p);
+      }
+      if (!(x = d[n]) && d.all) x = d.all[n];
+      for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+      for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+      if (!x && d.getElementById) x = d.getElementById(n);
+      return x;
+    }
+
+    function MM_swapImage() { //v3.0
+      var i, j = 0,
+        x, a = MM_swapImage.arguments;
+      document.MM_sr = new Array;
+      for (i = 0; i < (a.length - 2); i += 3)
+        if ((x = MM_findObj(a[i])) != null) {
+          document.MM_sr[j++] = x;
+          if (!x.oSrc) x.oSrc = x.src;
+          x.src = a[i + 2];
+        }
+    }
+  </script>
+
+  <script>
+    <!--
+    function HideContent(d) {
+      document.getElementById(d).style.display = "none";
+    }
+
+    function ShowContent(d) {
+      document.getElementById(d).style.display = "block";
+    }
+
+    function ReverseDisplay(d) {
+        if (document.getElementById(d).style.display == "none") {
+          document.getElementById(d).style.display = "block";
+        } else {
+          document.getElementById(d).style.display = "none";
+        }
+      }
+
+    // Night mode toggle
+    function toggleDarkLight() {
+      var currentClass = document.body.className;
+      document.body.className = currentClass == "dark" ? "" : "dark";
+
+      if (document.body.className == "dark") {
+        $("#main-background-section").toggleClass('inner-background inner-background-dark');
+        document.body.style.backgroundColor = "#000000";
+        document.body.style.color = "#ffffff";
+        document.querySelectorAll("div").forEach(function(element) {
+            element.style.backgroundColor = "#000000";
+            element.style.color = "#ffffff";
+        });
+        document.querySelectorAll("nav").forEach(function(element) {
+            element.style.backgroundColor = "#000000";
+            element.style.color = "#ffffff";
+        });
+        document.querySelectorAll("a").forEach(function(element) {
+            element.style.color = "#deb903";
+            element.style.hoverColor = "#ffffff";
+            element.style.visitedColor = "#ff0000";
+        });
+      } else {
+        $("#main-background-section").toggleClass('inner-background-dark inner-background');
+        document.body.style.backgroundColor = "#ffffff";
+        document.body.style.color = "#000000";
+        document.querySelectorAll("div").forEach(function(element) {
+            element.style.backgroundColor = "#ffffff";
+            element.style.color = "#000000";
+        });
+        document.querySelectorAll("nav").forEach(function(element) {
+            element.style.backgroundColor = "#ffffff";
+            element.style.color = "#000000";
+        });
+      }
+    }
+      //-->
+  </script>
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'js/gastats.js', 'ga');
+
+    ga('create', 'UA-2071667-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</head>
+
+<body onLoad="MM_preloadImages('images/twitter-roll.webp','images/github-roll.webp','images/earn-roll.webp','images/keybase-roll.webp','images/pgp-roll.webp')">
+  <nav class="navbar navbar-default col-sm-offset-0 col-sm-12 col-md-offset-0 col-md-12 col-lg-offset-0 col-lg-12">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myDefaultNavbar1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="/">Zincir Akademi</a> </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="myDefaultNavbar1">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Bitcoin<span class="sr-only">(current)</span></a></li>
+          <li><a href="blockchain-kaynak">Blockchain</a></li>
+          <li><a href="contact">İletişim</a></li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+  <section id="main-background-section" class="inner-background">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 text-left col-lg-offset-0 col-lg-12">
+          <br />
+        </div>
+      </div>
+    </div>
+    <div class="container" style="background-color: #ffffff">
+      <div class="row">
+        <div class="col-xs-12 text-left col-lg-offset-1 col-lg-8 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+          <h1>Bitcoin Kitaplığı</h1>
+          <p>Bitcoin oldukça karmaşık bir teknolojiye sahiptir. Bu sitenin amacı, bu eğitim sürecini kolaylaştırmak için Türkçe eğitim kaynaklarını bir araya getirmektir. Bitcoin satın almak isteyenler ve arkadasındaki teknolojiyi merak edenler için bir kütüphane olması amacı ile oluşturulmuştur.<button type="button" name="dark_light" onclick="toggleDarkLight()" title="Toggle dark/light mode">Gece Modu</button></p>
+          <br />
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 text-left col-lg-offset-0 col-lg-12">
+          <br />
+          <br />
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container">
+      <div class="row" style="font-weight:bold">
+        <div class="text-left col-xs-12 col-sm-6 col-lg-6 col-md-6">
+          <h2 id="getting_started">Bitcoin Başlangıç Seti:</h2>
+          <ul>
+            <li><a href="https://medium.com/bili%C5%9Fim-hareketi/her-%C5%9Feyi-ba%C5%9Flatan-makale-bitcoin-pdf-b326e4c09250" target="_blank" rel="noopener">Bitcoin Whitepaper</a></li>   
+			<li><a href="https://medium.com/t%C3%BCrkiye/bitcoin-ne-tam-olarak-ca9f376a2ece" target="_blank" rel="noopener">Bitcoin Ne Tam Olarak?</a></li>
+			<li><a href="https://www.youtube.com/watch?v=xJgy6G6CH7c" target="_blank" rel="noopener">Bitcoin Nedir? </a> (19 dk video)</li>
+			<li><a href="https://www.youtube.com/watch?v=1iW941pQ3OU" target="_blank" rel="noopener">Bitcoin: Genel Bakış </a> (11 dk video)</li>
+			<li><a href="https://medium.com/t%C3%BCrkiye/bitcoin-para-m%C4%B1-ger%C3%A7ekten-nas%C4%B1l-ff5163e24b3d" target="_blank" rel="noopener">Bitcoin Para Mı Gerçekten? Nasıl?</a></li>
+			<li><a href="https://medium.com/@turansert/b%C3%BCt%C3%BCn-bunlar-bir-balon-mu-bdaa7d69c36c" target="_blank" rel="noopener">Bütün bunlar bir balon mu?</a></li>
+			<li><a href="https://medium.com/@turansert/bitcoin-i%C5%9Flemi-nas%C4%B1l-ger%C3%A7ekle%C5%9Fiyor-a98ecf340ae1" target="_blank" rel="noopener">Bitcoin işlemi nasıl gerçekleşiyor?</a></li>
+			<li><a href="https://www.youtube.com/watch?v=l9jOJk30eQs" target="_blank" rel="noopener">Bitcoin Nasıl Çalışıyor? </a> (5 dk video)</li>
+            <li><a href="https://www.youtube.com/watch?v=bBC-nXj3Ng4" target="_blank" rel="noopener">Bitcoin ve Kriptoparalar Nasıl Çalışır?</a> (26 dk video)</li>
+			<li><a href="https://www.youtube.com/watch?v=ENwtC8LgPcw" target="_blank" rel="noopener">Bitcoin İnsanlık Tarihinin En Önemli İcadı Olabilir mi? </a> (15 dk video)</li>
+			<li><a href="https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7" target="_blank" rel="noopener">Bitcoin’in Teknolojik Öğretileri</a></li>
+			<li><a href="https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc" target="_blank" rel="noopener">Bitcoin’in Felsefi Öğretileri</a></li>
+			<li><a href="https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525" target="_blank" rel="noopener">Bitcoin’in Ekonomi Öğretileri</a></li>
+			<li><a href="https://medium.com/@denizozzgur/bitcoinin-%C3%A7ekim-yasas%C4%B1-1dbe3e8698af" target="_blank" rel="noopener">Bitcoin’in Çekim Yasası</a></li>
+			<li><a href="https://medium.com/@denizozzgur/bitcoin-%C3%A7a%C4%9F%C4%B1nda-para-kazanmak-5defde1dee1" target="_blank" rel="noopener">Bitcoin Çağında Para Kazanmak</a></li>
+			<li><a href="https://bitcoin.org/tr/kelime-haznesi#adres" target="_blank" rel="noopener">Bitcoin Sözlüğü</a></li>
+			<li><a href="https://medium.com/@mesutgulecen/bitcoin-merkezi-olmayan-bir-organizmad%C4%B1r-miselyum-b%C3%B6l%C3%BCm-1-3-714c2446f341" target="_blank" rel="noopener">Bitcoin Merkezi Olmayan Bir Organizmadır</a></li>
+			<li><a href="https://medium.com/turkce/t%C3%BCrkiye-nin-40-y%C4%B1ld%C4%B1r-bitcoin-altyap%C4%B1s%C4%B1-var-98d05892e40c" target="_blank" rel="noopener">Türkiye’nin 40 yıldır bitcoin altyapısı var!</a></li>
+			<li><a href="https://medium.com/kripto-para/bitcoin-hakkinda-yanlis-bilinenler-43d438efa94f" target="_blank" rel="noopener">Bitcoin Hakkında Yanlış Bilinenler</a></li>
+			<li><a href="https://medium.com/kripto-para/bitcoin-hakkinda-bilinmesi-gereken-9-gercek-18f872aca30" target="_blank" rel="noopener">Bitcoin Hakkında Bilinmesi Gereken 9 Gerçek</a></li>
+			<li><a href="https://medium.com/@ahmetusta/https-medium-com-ahmetusta-bitcoin-hakkinda-13-soru-ve-cevap-217101d7ed5c" target="_blank" rel="noopener">Bitcoin hakkında 13 soru ve cevap</a></li>
+			<li><a href="https://medium.com/t%C3%BCrkiye/bitcoin-geni%C5%9F-kitlelere-nas%C4%B1l-yay%C4%B1l%C4%B1r-f7b485d75854" target="_blank" rel="noopener">Bitcoin Geniş Kitlelere Nasıl Yayılır?</a></li>
+			<li><a href="https://medium.com/@altuggamertr/kripto-para-piyasas%C4%B1-hakk%C4%B1nda-bilmeniz-gereken-her%C5%9Fey-e6d72f80054" target="_blank" rel="noopener">Kripto para piyasası hakkında bilmeniz gereken herşey!</a></li>
+			<li><a href="https://medium.com/t%C3%BCrkiye/bitcoin-yolun-sonu-mu-e60489b88dbf" target="_blank" rel="noopener">Bitcoin Yolun Sonu Mu?</a></li>
+			<li><a href="https://bitcoinlerim.com/sik-sorulan-sorular/" target="_blank" rel="noopener">Bitcoin Sık Sorulan Sorular</a></li>
+			<li><a href="https://bitcoinlerim.com/genesis-blogu/" target="_blank" rel="noopener">Genesis Bloğu</a></li>
+			<li><a href="https://www.youtube.com/watch?v=6W2dysSvPtA" target="_blank" rel="noopener">Bitcoin ve Kripto Paraların Geleceği (39 dk video)</a></li>
+		  </ul>
+          <br />
+          <h2 id="history">Bitcoin Tarihçesi:</h2>
+          <ul>
+			<li><a href="https://medium.com/@mesutgulecen/b-money-wei-dai-t%C3%BCrk%C3%A7e-fee91d128d21" target="_blank" rel="noopener">B-Money / Wei Dai</a></li> 
+            <li><a href="https://medium.com/@mesutgulecen/bit-gold-nick-szabo-t%C3%BCrk%C3%A7e-9787c2d90ade" target="_blank" rel="noopener">Bit Gold / Nick Szabo</a></li> 
+			<li><a href="https://medium.com/@mesutgulecen/digital-cash-privacy-hal-finney-t%C3%BCrk%C3%A7e-177c95fa6837" target="_blank" rel="noopener">Digital Cash & Privacy / Hal Finney</a></li> 
+			<li><a href="https://medium.com/@mesutgulecen/bitcoin-and-me-hal-finney-t%C3%BCrk%C3%A7e-64ab3c658f9b" target="_blank" rel="noopener">Bitcoin ve Ben / Hal Finney</a></li>			
+			<li><a href="https://blog.boramalper.org/archives/194" target="_blank" rel="noopener">Bir Şifrepunk’ın Bildirisi</a></li>
+			<li><a href="https://medium.com/kripto-para/10-yilda-bitcoin-66a22f7fb594" target="_blank" rel="noopener">Bitcoin'de 10 Yıl</a></li>
+			<li><a href="https://bitcoinlerim.com/bitcoin-tarihi/" target="_blank" rel="noopener">Bitcoin Tarihi</a></li>
+			
+		  </ul>
+          <br />
+          <h2 id="stats">Ağ İstatistikleri:</h2>
+          <ul>
+            <li><a href="https://blockchain.info/charts" target="_blank" rel="noopener">Blockchain Grafikleri</a></li>
+            <li><a href="https://bitcoinvisuals.com/" target="_blank" rel="noopener">Bitcoin Grafikleri</a></li>
+			<li><a href="https://bitcoiner.live/" target="_blank" rel="noopener">Bitcoin Fee Hesaplayıcı</a></li>
+			<li><a href="https://blockstream.info/" target="_blank" rel="noopener">Blockstream.info</a></li>
+          </ul>
+          <br />
+          <h2 id="deep_dive">Derinlemesine Bitcoin Teknolojisi (İngilizce):</h2>
+          <ul>
+            <li><a href="https://bitcoin.org/en/developer-guide" target="_blank" rel="noopener">Bitcoin Developer Guide</a></li>
+            <li><a href="https://github.com/bitcoin/bips/blob/master/README.mediawiki" target="_blank" rel="noopener">Bitcoin Improvement Proposals</a></li>
+            <li><a href="https://www.youtube.com/channel/UCywSzGiWWcUG1gTp45YdPUQ/videos" target="_blank" rel="noopener">Bitcoin Edge Workshop</a> (20+ hours of tutorials)</li>
+            <li><a href="https://www.youtube.com/playlist?list=PLQ56Yiu6lEayrOrjxefwkxKakZgMNIzL0" target="_blank" rel="noopener">Bitcoin Protocol tutorials</a></li>
+            <li><a href="https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x" target="_blank" rel="noopener">Crypto Primitives tutorials</a></li>
+            <li><a href="https://en.bitcoin.it/wiki/Main_Page" target="_blank" rel="noopener">The Bitcoin Wiki</a></li>
+            <li><a href="https://github.com/reiver/blockchain-reading-list" target="_blank" rel="noopener">Blockchain Reading List</a></li>
+            <li><a href="https://cdecker.github.io/btcresearch/" target="_blank" rel="noopener">Comprehensive Academic Bitcoin Research Archive</a></li>
+            <li><a href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc" target="_blank" rel="noopener">Mastering Bitcoin</a></li>
+            <li><a href="https://github.com/jimmysong/programmingbitcoin/blob/master/all.asciidoc" target="_blank" rel="noopener">Programming Bitcoin</a></li>
+            <li><a href="https://github.com/Xel/Blockchain-stuff#bitcoin" target="_blank" rel="noopener">Epic List of Bitcoin Books</a></li>
+            <li><a href="http://davidederosa.com/basic-blockchain-programming/" target="_blank" rel="noopener">Intro to Bitcoin for Developers</a></li>
+            <li><a href="https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603" target="_blank" rel="noopener">Why Run a Full Node?</a></li>
+            <li><a href="https://bitcoin.org/en/full-node" target="_blank" rel="noopener">How to Run a Full Node</a></li>
+			<li><a href="https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1" target="_blank" rel="noopener">Raspberry Pi Node Guide</a></li>
+          </ul>
+          <br />
+          <h2 id="dev_tools">Bitcoin Yazılımcı Araçları:</h2>
+          <ul>
+            <li><a href="https://github.com/igorbarinov/awesome-bitcoin" target="_blank" rel="noopener">Araçlar Arşiv Listesi</a></li>
+            <li><a href="https://github.com/btcpayserver/btcpayserver" target="_blank" rel="noopener">BTCPay Ödeme İşlemcisi</a></li>
+            <li><a href="https://github.com/straumat/blockchain2graph" target="_blank" rel="noopener">Bitcoin Graph Veritabanı Oluşturucu</a></li>
+            <li><a href="https://github.com/bitcoinjs/bitcoinjs-lib" target="_blank" rel="noopener">BitcoinJS: JavaScript Kütüphanesi</a></li>
+            <li><a href="https://bitcoinj.github.io/" target="_blank" rel="noopener">Bitcoin Java Kütüphanesi</a></li>
+            <li><a href="https://ofek.github.io/bit/" target="_blank" rel="noopener">Bitcoin Python Kütüphanesi</a></li>
+			<li><a href="https://github.com/bitcoin-s/bitcoin-s-core" target="_blank" rel="noopener">Bitcoin Scala Kütüphanesi</a></li>
+            <li><a href="https://siminchen.github.io/bitcoinIDE/build/editor.html" target="_blank" rel="noopener">Bitcoin Script IDE</a></li>
+            <li><a href="https://github.com/kallewoof/btcdeb" target="_blank" rel="noopener">Bitcoin Script Debugger</a></li>
+            <li><a href="https://github.com/cryptocoinjs/hdkey" target="_blank" rel="noopener">NodeJS HD Key Kütüphanesi</a></li>
+            <li><a href="https://github.com/samr7/vanitygen" target="_blank" rel="noopener">Vanity Adres Oluşturucu</a></li> 
+          </ul>
+          <br />  
+		  <h2 id="careers">Kariyer Siteleri:</h2>
+          <ul>
+            <li><a href="https://angel.co/blockchains/jobs" target="_blank" rel="noopener">AngelList Blockchain Startups</a></li>
+            <li><a href="https://coinality.com/" target="_blank" rel="noopener">Coinality</a></li>
+            <li><a href="https://crypto.jobs/" target="_blank" rel="noopener">Crypto Jobs</a></li>
+            <li><a href="https://cryptocurrencyjobs.co/" target="_blank" rel="noopener">Cryptocurrency Jobs</a></li>
+            <li><a href="https://cryptojobslist.com/" target="_blank" rel="noopener">Crypto Jobs List</a></li>
+            <li><a href="https://blockchaindevjobs.com/" target="_blank" rel="noopener">Developer Jobs</a></li>
+            <li><a href="https://www.reddit.com/r/Jobs4Bitcoins/" target="_blank" rel="noopener">Jobs4Bitcoins subreddit</a></li>
+          </ul>
+          <br />
+        </div>
+        <!-- RIGHT COLUMN -->
+        <div class="text-left col-xs-12 col-sm-6 col-lg-6 col-md-6">
+          <h2 id="courses">Online Trade Kursları:</h2>
+          <ul>
+            <li><a href="https://www.udemy.com/kriptopara-egitimi/" target="_blank" rel="noopener">Bitcoin - Kripto Para - Blockchain ve Mining Eğitimi</a></li>
+			<li><a href="https://www.udemy.com/kripto-para-piyasas-alm-satm-rehberi/" target="_blank" rel="noopener">Kripto Para Piyasası Alım & Satım Rehberi</a></li>
+            <li><a href="https://www.binance.vision/tr/economics" target="_blank" rel="noopener">Binance Akademi (Trade)</a></li>
+          </ul>
+		   <h2 id="documentaries">Belgesel:</h2>
+          <ul>
+            <li><a href="https://www.netflix.com/title/80154500" target="_blank" rel="noopener">Banking on Bitcoin</a></li>
+            <li><a href="https://www.youtube.com/watch?v=gnclsLp_NDU" target="_blank" rel="noopener">Paranın Yeniden Keşfi: Bitcoin</a></li>
+          </ul>
+          <br />
+          <h2 id="video_presentations">Kitap:</h2>
+          <ul>
+            <li><a href="https://www.google.com/search?q=Kriptopara+%C3%87a%C4%9F%C4%B1:+Bitcoin+ve+Dijital+Paran%C4%B1n+K%C3%BCresel+Ekonomik+Sisteme+Meydan+Okumas%C4%B1&source=lnms&sa=X&ved=0ahUKEwipjKGHyajiAhXCJ1AKHWPWB10Q_AUIOygA&biw=1280&bih=621" target="_blank" rel="noopener">Kriptopara Çağı</a></li>
+            <li><a href="https://www.google.com/search?q=bitcoin+strandart%C4%B1" target="_blank" rel="noopener">Bitcoin Standardı</a></li>
+			<li><a href="https://www.google.com/search?q=Kripto+Para+Bitcoin:+Finansal+%C3%96zg%C3%BCrl%C3%BCg%C3%BCn+Pesinde+Levent+Kurt&stick=H4sIAAAAAAAAAONgecS4lJFb4OWPe8JSsxknrTl5jXEKIxdXcEZ-uWteSWZJpZAeFxuUpcIlKMWrn65vaJienmtUkmOQpcEgxc-FKiRkyMUZlJqTWJKaEpKPqsXQ2DI7HVULWEhJ2Yh_16Vp59g4BdXqJisw6gY5PFrduYqVyYChad-KQ2wsHIwCDDyLWB28izILSvIVAhKLEhWcMkuS8zPzrBTcMvMS84oTcxQOT6tKP7ynKOfwHiCVpxCQWpyZl5Kq4JNalppXouBdWlQCAG7Rb5buAAAA&sa=X&ved=2ahUKEwi7kfukzqjiAhVCa1AKHfChDjgQ6RMwE3oECAsQBA&biw=1280&bih=621" target="_blank" rel="noopener">Kripto Para Bitcoin: Finansal Özgürlügün Pesinde</a></li>
+            <li><a href="https://www.google.com/search?biw=1280&bih=621&ei=8dThXOWiJ8TIwAKyr7SYDA&q=Bitcoin+Devrimi+-+Serkan+%C4%B0nci%2C+%C4%B0smail+Alpen&oq=Bitcoin+Devrimi+-+Serkan+%C4%B0nci%2C+%C4%B0smail+Alpen&gs_l=psy-ab.3..33i160l2.6967.6967..7578...0.0..0.156.156.0j1......0....2j1..gws-wiz.......0i71.s6YjerXPWL8" target="_blank" rel="noopener">Bitcoin Devrimi</a></li>
+            <li><a href="https://www.google.com/search?biw=1280&bih=621&ei=-dThXLPdNpCmwQKykqyYBA&q=bitcoin+hakk%C4%B1nda+g%C3%BCncel+her%C5%9Fey+&oq=bitcoin+hakk%C4%B1nda+g%C3%BCncel+her%C5%9Fey+&gs_l=psy-ab.3..33i160.72097.75079..76131...0.0..0.169.2264.18j6....2..0....1..gws-wiz.......35i39j0i67j0i131j0i131i67j0j0i10i203j0i22i30.rYr5fjXPprA" target="_blank" rel="noopener">Bitcoin Hakkında Güncel Herşey</a></li>
+			</ul>
+          <br />
+		  <h2 id="podcasts">Podcast:</h2>
+          <ul>
+            <li><a href="https://open.spotify.com/show/4WBAHmXEbNlMJmersUvHpp?si=uNHpaDpBQMqyVDGIqlB4Gg" target="_blank" rel="noopener">BtcTurk</a></li>
+            <li><a href="https://open.spotify.com/episode/6aq7ufrod8jvMUKeD3b6lp?si=s6CiTaRQSIKFxEjwdTZ-Ag" target="_blank" rel="noopener">Kripto para nedir? Bitcoin 101</a></li>
+            <li><a href="https://open.spotify.com/episode/4R6SnzqE7zeaWFoiJCbrPL?si=rG_Eb7iaSfeHXyiC93rKzw">İsmail Hakkı Polat ile kripto paralar üzerine</a></li>
+          </ul>
+          <br /> 
+          <h2 id="courses">YouTube Kanalları:</h2>
+          <ul>
+            <li><a href="https://www.youtube.com/channel/UC5rV0QEGbv0Y-umDwshs_HA/videos" target="_blank" rel="noopener">Kripto Sözlük</a></li>
+            <li><a href="https://www.youtube.com/channel/UCKdhjP8yA36w4z-oCp5uLHg/videos" target="_blank" rel="noopener">Kripto Teknik</a></li>
+			<li><a href="https://www.youtube.com/channel/UCbOmzoxl_JLrboEvY7KINgg/videos?pbjreload=10" target="_blank" rel="noopener">KIVANC fr3762</a></li>
+			<li><a href="https://www.youtube.com/channel/UCKFlWP2m0UQCVeNgXq3EZWw/videos" target="_blank" rel="noopener">Paratica</a></li>
+          </ul>
+          <br />
+		  <h2 id="news">Haber Siteleri:</h2>
+          <ul>
+            <li><a href="https://www.kriptopara.org/" target="_blank" rel="noopener">Kripto Para Platformu</a></li>
+            <li><a href="https://uzmancoin.com/" target="_blank" rel="noopener">Uzmancoin</a></li>
+            <li><a href="https://koinbulteni.com/" target="_blank" rel="noopener">Koin Bülteni</a></li>
+            <li><a href="https://coin-turk.com/" target="_blank" rel="noopener">Coin Türk</a></li>
+			<li><a href="https://kriptoparahaber.com/" target="_blank" rel="noopener">Kriptopara Haber</a></li>
+          </ul>
+          <br />
+          <h2 id="forums">Forumlar:</h2>
+          <ul>
+            <li><a href="https://www.altcointurk.com/" target="_blank" rel="noopener">Altcointurk</a></li>
+			<li><a href="https://discordapp.com/invite/GDCQQKd" target="_blank" rel="noopener">Muhabbit Discord</a></li>
+            <li><a href="https://bitcointalk.org/index.php?board=133.0" target="_blank" rel="noopener">Bitcointalk</a></li>
+            <li><a href="https://bitsozluk.com/" target="_blank" rel="noopener">Bitsözlük</a></li>
+            </ul>
+          <br />
+          <h2 id="buying">Kriptopara Borsaları:</h2>
+          <ul>
+            <li><a href="https://www.binance.com/?ref=11656707" target="_blank" rel="noopener">Binance</a></li>
+			<li><a href="https://www.bitay.com/ref/AAF26C0E" target="_blank" rel="noopener">Bitay</a></li>
+			<li><a href="https://koinim.com/" target="_blank" rel="noopener">Koinim</a></li>
+            <li><a href="https://www.btcturk.com/" target="_blank" rel="noopener">BtcTurk</a></li>
+            <li><a href="https://koineks.com/" target="_blank" rel="noopener">Koineks</a></li>
+            <li><a href="https://www.paribu.com/#/" target="_blank" rel="noopener">Paribu</a></li>                      
+          </ul>
+          <br />
+		  <h2 id="buying">Auto Trade Platformu:</h2>
+          <ul>
+            <li><a href="https://www.paratica.com/" target="_blank" rel="noopener">Paratica</a></li>                      
+          </ul>
+          <br />
+		  <h2 id="setting_up_wallet">Bitcoin Cüzdanları:</h2>
+          <ul>
+            <li>Fiziksel Cüzdan: <a href="https://www.binbircesit.com/ledger-wallet-offline-bitcoin-usb-cuzdani-" target="_blank" rel="noopener">Ledger Nano S</a></li>
+            <li>Masaüstü için: <a href="https://electrum.org/#home" target="_blank" rel="noopener">Electrum</a></li>
+            <li>Android için: <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank" rel="noopener">Samourai Wallet</a></li>
+            <li>iPhone için: <a href="https://itunes.apple.com/app/id1402243590" target="_blank" rel="noopener">Blockstream Green</a></li>
+            <li>Web için: <a href="https://www.bitgo.com/" target="_blank" rel="noopener">BitGo</a></li>
+            <li>Ekstra Gizlilik: <a href="https://wasabiwallet.io/" target="_blank" rel="noopener">Wasabi</a></li>
+            <li>Ekstra Güvenlik: <a href="https://keys.casa/" target="_blank" rel="noopener">Casa</a></li>
+          </ul>
+          <br />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr>
+  <div class="section well">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 col-md-10 col-lg-10 col-xs-offset-0 col-xs-12">
+          <p class="text-right">
+            <a href="pgpkey" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('PGP','','images/pgp-roll.webp',1)" target="_blank" rel="nofollow"><img src="images/pgp.webp" alt="PGP" width="20" height="20" id="PGP">
+            </a>
+            <a href="https://twitter.com/mesutgulecen" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Twitter','','images/twitter-roll.webp',1)" target="_blank" rel="nofollow"><img src="images/twitter.webp" alt="Twitter" width="24" height="20" id="Twitter">
+            </a>
+            <a href="https://github.com/mesutgulecen" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Github','','images/github-roll.webp',1)" target="_blank" rel="nofollow"><img src="images/github.webp" alt="Github" width="24" height="20" id="Github">
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <p class="footer">Collected by Mesut Gülecen & Eyüp Yusuf Altunbıçak</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="js/jquery-1.11.3.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
