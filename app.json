@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      heroku/php
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "zincir-akademi",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
