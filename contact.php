@@ -107,8 +107,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="myDefaultNavbar1">
       <ul class="nav navbar-nav">
-          <li><a href="bitcoin-kaynak.html">Bitcoin</a></li>
-		  <li><a href="blockchain-kaynak.html">Blockchain</a></li>
+          <li><a href="bitcoin-kaynak">Bitcoin</a></li>
+		  <li><a href="blockchain-kaynak">Blockchain</a></li>
       <li class="active"><a href="#">İletişim<span class="sr-only"></span></a></li>
       </ul>
     </div>
