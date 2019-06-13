@@ -1,0 +1,299 @@
+{
+    "getting_started":
+    [
+        { "title": "Blockchain Nedir?", "url": "http://paranya.com/blockchain-nedir/" },
+        { "title": "Blokzincir Teknolojisi Nedir?", "url": "https://medium.com/baybaynakit/blokzincir-teknolojisi-nedir-7a070bdd00e2" },
+        { "title": "Yeni Sihirli Kelime : Blockchain", "url": "https://medium.com/@sdogantekin/yeni-sihirli-kelime-blockchain-68864a30fee9" },
+        { "title": "Nakamoto Consensus Protokolü", "url": "https://medium.com/@cryptosquanch/blockchain-nedir-part-3-e08d43cc6137" },
+        { "title": "Blockchain 3.0", "url": "https://medium.com/@cryptosquanch/blockchain-nedir-part-4-avalanche-45b324cfbc19" },
+        { "title": "Potentia Agendi, Potestas ve Blockchain", "url": "https://medium.com/@Stratrade/potentia-agendi-potestas-ve-blockchain-e5e6baeba47e" },
+        { "title": "Blockchain Bulunduğum Sektöre Yarar mı?", "url": "https://medium.com/t%C3%BCrkiye/blockchain-bulundu%C4%9Fum-sekt%C3%B6re-yarar-m%C4%B1-d20206e7af60" },
+        { "title": "Bir Örnek ile Blockchain Nedir?", "url": "https://medium.com/@kemalyen/bir-%C3%B6rnek-ile-blockchain-nedir-69f6ec11bcae" },
+        { "title": "Blockchain’in Topluluk ile İlişkisi", "url": "https://medium.com/prantsocial/blockchainin-topluluk-ile-i%CC%87li%C5%9Fkisi-3e0dfb56ba" },
+        { "title": "Açık Kaynak ve Blockchain Dünyası", "url": "https://medium.com/@mesutgulecen/a%C3%A7%C4%B1k-kaynak-ve-blockchain-d%C3%BCnyas%C4%B1-c644edf09bfc" },
+        { "title": "Blockchain ve Gelecek", "url": "https://medium.com/unichain-tr/blockchain-ve-gelecek-152e34240ec5" },
+        { "title": "Blockchain’in Geleceği Nasıl Görünüyor?", "url": "https://medium.com/t%C3%BCrkiye/blockchainin-gelece%C4%9Fi-nas%C4%B1l-g%C3%B6r%C3%BCn%C3%BCyor-641decfb1a75" },
+        { "title": "Blokzincir (Blockchain) hayatımızı nasıl değiştirecek?", "url": "https://medium.com/baybaynakit/blokzincir-blockchain-hayat%C4%B1m%C4%B1z%C4%B1-nas%C4%B1l-de%C4%9Fi%C5%9Ftirecek-697a2e7d790f" },
+        { "title": "Blockchain Her Derde Deva mı?", "url": "https://medium.com/t%C3%BCrkiye/blockchain-her-derde-deva-m%C4%B1-71124aacdf51" },
+        { "title": "Vitalik’in Ethereum’u Yaptığı Yaştasın!", "url": "https://medium.com/unichain-tr/devcon4-%C3%B6ncesi-vitalikin-ethereum-u-yapt%C4%B1%C4%9F%C4%B1-ya%C5%9Ftas%C4%B1n-61fcef28efa5" },
+        { "title": "Blockchain Projesi Yapmak İstiyorsanız İlk Adımınız Ne Olmalı?", "url": "https://medium.com/baybaynakit/blockchain-projesi-yapmak-istiyorsunuz-ilk-ad%C4%B1m%C4%B1n%C4%B1z-ne-olur-57f51106e895" },
+        { "title": "Blokzincir Geliştiricisi Olmak İçin En İyi Programlama Dili Hangisi?", "url": "https://medium.com/@recepilkbahar/blokzincir-geli%C5%9Ftiricisi-olmak-i%CC%87%C3%A7in-en-i%CC%87yi-programlama-dili-hangisi-2b0302edd493" },
+        { "title": "Türkiye’deki Üniversiteler ve Blokzincir", "url": "https://medium.com/@recepilkbahar/t%C3%BCrkiyedeki-%C3%BCniversiteler-ve-blokzincir-7f96b8ddd7ba" },
+        { "title": "Üniversiteler ve Blokzincir", "url": "https://medium.com/@recepilkbahar/universiteler-ve-blokzincir-177753249afe" },
+        { "title": "Blokzincir ile Ekonomik Avantajlar Kapısını Aralayın!", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/blokzincir-ile-ekonomik-avantajlar-kap%C4%B1s%C4%B1n%C4%B1-aralay%C4%B1n-8c412cf84376" },
+        { "title": "Araştırma Şirketlerinin Gözünden Blokzincir’in Geleceği", "url": "https://medium.com/@recepilkbahar/arastirma-sirketlerinin-gozunden-blokzincirin-gelecegi-5bc15045bc50" },
+        { "title": "Blockchain’e İhtiyacınız Var mı?", "url": "https://medium.com/hyperledger-technologies/blockchaine-ihtiyac%C4%B1n%C4%B1z-var-m%C4%B1-b6e7e1e4b183" },
+        { "title": "Blockchain’de Ölçeklenme Problemi ve Gayri Merkezilik", "url": "https://medium.com/unichain-tr/blockchainde-%C3%B6l%C3%A7eklenme-problemi-ve-gayri-merkezilik-74195b345861" },
+        { "title": "Yazılımcı Olmayanlar İçin Ücretsiz Blockchain Kaynakları", "url": "https://medium.com/@denizozzgur/yaz%C4%B1l%C4%B1mc%C4%B1-olmayanlar-i%CC%87%C3%A7in-%C3%BCcretsiz-blockchain-kaynaklar%C4%B1-c87342d8f112" },
+        { "title": "Blockchain ve Ahlak İlişkisi", "url": "https://medium.com/@cemilturun/blockchain-ve-ahlak-i%CC%87li%C5%9Fkisi-f08cacd9d92e" },
+        { "title": "Blokzinciri Neden Önemli?", "url": "https://medium.com/@cemilturun/blokzinciri-neden-%C3%B6nemli-4d511fcfd179" },
+        { "title": "Blokzincir Uygulamaları ve Güvenlik Sorunları", "url": "https://medium.com/@mertsusur/blok-zinciri-uygulamalar%C4%B1-ve-g%C3%BCvenlik-sorunlar%C4%B1-8cbbda7bd9ed" },
+        { "title": "Bizans Generalinin Problemi", "url": "https://medium.com/@turansert/bizans-generalinin-problemi-uzla%C5%9Fmak-f71eddc2d443" },
+        { "title": "Proof of Authority: Yetkilendirme Tabanlı Mutabakat Modeli", "url": "https://medium.com/@mesutgulecen/proof-of-authority-yetkilendirme-tabanl%C4%B1-mutabakat-modeli-8ae04a3e2284" },
+        { "title": "Hot Wallet vs Cold Wallet", "url": "https://medium.com/@egetekiner/hot-wallet-s%C4%B1cak-c%C3%BCzdan-vs-cold-wallet-so%C4%9Fuk-c%C3%BCzdan-e67f35a7f855" },
+        { "title": "PoSE ( Masternode ) Konsensüs Methodu", "url": "https://medium.com/@egetekiner/pose-masternode-konsens%C3%BCs-methodu-7d6810c0d80c" },
+        { "title": "Blokzincirin Temelleri — 1", "url": "https://medium.com/hepsiburadatech/blokzincirin-temelleri-18817315bf26" },
+        { "title": "Blokzincirin Temelleri — 2", "url": "https://medium.com/hepsiburadatech/blokzincirin-temelleri-e1bdf3f7e90c" }
+    ],
+    "use_cases":
+    [
+        { "title": "Uluslararası Para Transferi | Blockchain Etkisi", "url": "https://medium.com/baybaynakit/uluslararas%C4%B1-para-transferi-blockchain-etkisi-e77635cce8a0" },
+        { "title": "Big Data Alanında Blockchain Teknolojisinden Faydalanmak", "url": "https://medium.com/baybaynakit/big-data-alan%C4%B1nda-blockchain-teknolojisinden-faydalanmak-6a7b554bafda" },
+        { "title": "İyilik için Blockchain", "url": "https://medium.com/@turansert/i%CC%87yilik-i%C3%A7in-blockchain-332043831501" },
+        { "title": "İyilik için Blockchain | Yenilikçi Kullanım Senaryoları", "url": "https://medium.com/baybaynakit/i%CC%87yilik-i%C3%A7in-blockchain-yenilik%C3%A7i-kullan%C4%B1m-senaryolar%C4%B1-6c96e5b00fea" },
+        { "title": "Sanat için Blockchain", "url": "https://medium.com/@turansert/sanat-i%C3%A7in-blockchain-2edbe63a0bc3" },
+        { "title": "Blockchain Uygulamaları", "url": "http://yarimada.gen.tr/?p=654" },
+        { "title": "Sağlık için Blockchain", "url": "https://medium.com/@turansert/sa%C4%9Fl%C4%B1k-i%C3%A7in-blockchain-471b937f4ee3" },
+        { "title": "Dış Ticaret ve Blockchain", "url": "https://ismailhpolat.com/d%C4%B1%C5%9F-ticaret-ve-blockchain-2e6b45c93083" },
+        { "title": "Blockchain ve Hukuk Üzerine", "url": "https://teknolojivehukuk.com/proje.php?ID=99&x=%20BLOCKCHA%C4%B0N%20VE%20HUKUK%20%C3%9CZER%C4%B0NE%20D%C3%9C%C5%9E%C3%9CN%C3%9C%C5%9E" },
+        { "title": "Seyahat için Blockchain", "url": "https://medium.com/@turansert/seyahat-i%C3%A7in-blockchain-2aa4183a071a" },
+        { "title": "Çevre için Blockchain", "url": "https://medium.com/@turansert/%C3%A7evre-i%C3%A7in-blockchaine-devam-5d9fbec76cf" },
+        { "title": "Kimlik v2.0", "url": "https://medium.com/@sdogantekin/kimlik-v2-0-9a7662a81861" },
+        { "title": "Dijital Kimliğinize İyi Bakın", "url": "https://medium.com/t%C3%BCrkiye/dijital-kimli%C4%9Finize-i%CC%87yi-bak%C4%B1n-b36a2ae12fc7" },
+        { "title": "Akıllı Belediyecilik ve Blockchain", "url": "https://ismailhpolat.com/ak%C4%B1ll%C4%B1-belediyecilik-ve-blockchain-570f3d9a09d8" },
+        { "title": "Tedarik zinciri için Blockchain", "url": "https://medium.com/@turansert/tedarik-zinciri-i%C3%A7in-blockchain-67961c362880" }
+    ],
+    "videos":
+    [
+        { "title": "Blockchain Ekonomiyi Radikal Bir Şekilde Nasıl Dönüştürecek? (15 dk video)", "url": "https://www.youtube.com/watch?v=RplnSVTzvnU" },
+        { "title": "Blockchain 101 - Görsel Demo (18 dk video)", "url": "https://www.youtube.com/watch?v=_160oMzblY8" },
+        { "title": "Blockchain Para ve İş Modelellerini Nasıl Değiştiriyor? (19 dk video)", "url": "https://www.youtube.com/watch?v=Pl8OlkkwRpc" },
+        { "title": "Blockchain Nasıl Çalışıyor? (6 dk video)", "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4" },
+        { "title": "Blockchain'i Anlamak (2 dk video)", "url": "https://www.youtube.com/watch?v=r43LhSUUGTQ" },
+        { "title": "Blockchain Nedir? Geleceği İnşa Eden Kriptografi #1 (17 dk video)", "url": "https://www.youtube.com/watch?v=rCqFZN7apt8" },
+        { "title": "Blockchain Nedir? Geleceği İnşa Eden Kriptografi #2 (11 dk video)", "url": "https://www.youtube.com/watch?v=SwgUGmtmv3I" },
+        { "title": "Bizanslı General Problemi, SHA256 ve İşlem Kanıtı Sistemleri (14 dk video)", "url": "https://www.youtube.com/watch?v=gxF022yDcuw" },
+        { "title": "İhtiyacımız Olan Güven : Blockchain (17 dk video)", "url": "https://www.youtube.com/watch?v=yWtw_PJ9Olk" }
+    ],
+    "courses":
+    [
+        { "title": "Ethereum Webinar Serisi", "url": "https://www.youtube.com/watch?v=l7CM09KxDN0&list=PLc1l1qGSsnEu9VjS52vAHyEAcYEzlLzyB" },
+        { "title": "Blockchain Temelleri", "url": "https://www.youtube.com/watch?v=06v_rIiQQGY&list=PLc1l1qGSsnEueRgrk87sY7FL4dhXfoVHH" },
+        { "title": "Öğrenciler için Ethereum ve Solidity Eğitimi", "url": "https://www.youtube.com/watch?v=Nsi82G2x3xk&list=PLc1l1qGSsnEtHtAtPEt-4l_5QRbga9obC&index=1" },
+        { "title": "Blockchain'i Anlayıp Python ile Kriptopara Yaratmak", "url": "https://www.udemy.com/sifirdan-bir-bitcoin-klonu-yazarak-blockchaini-anlayalim/" },
+        { "title": "Blockchain-Bitcoin-Kriptopara", "url": "https://www.udemy.com/devrimdanyalilekisakisa/" },
+        { "title": "Blokzinciri Temelleri", "url": "https://www.udemy.com/blokzinciri-temelleri/" },
+        { "title": "Binance Akademi (Blockchain)", "url": "https://www.binance.vision/tr/blockchain" },
+        { "title": "Binance Akademi (Güvenlik)", "url": "https://www.binance.vision/tr/security" }
+    ],
+    "career":
+    [
+        { "title": "AngelList Blockchain Startups", "url": "https://angel.co/blockchains/jobs" },
+        { "title": "Coinality", "url": "https://coinality.com/" },
+        { "title": "Crypto Jobs", "url": "https://crypto.jobs/" },
+        { "title": "Cryptocurrency Jobs", "url": "https://cryptocurrencyjobs.co/" },
+        { "title": "Crypto Jobs List", "url": "https://cryptojobslist.com/" },
+        { "title": "Developer Jobs", "url": "https://blockchaindevjobs.com/" },
+        { "title": "Jobs4Bitcoins Subreddit", "url": "https://www.reddit.com/r/Jobs4Bitcoins/" },
+        { "title": "Blocklancer", "url": "https://blocklancer.net/" },
+        { "title": "Ethlance", "url": "https://ethlance.com/" },
+        { "title": "Blockchain Works", "url": "https://blockchain.works-hub.com/" },
+        { "title": "Work on Blockchain", "url": "https://workonblockchain.com/" }
+    ],
+    "ethereum":
+    [
+        { "title": "Dünyanın En Büyük Bilgisayarı: Ethereum’un Hikayesi", "url": "https://medium.com/t%C3%BCrkiye/d%C3%BCnyan%C4%B1n-en-b%C3%BCy%C3%BCk-bilgisayar%C4%B1-ethereumun-hikayesi-8c08a416b7b" },
+        { "title": "Nedir Yahu Şu Ethereum?", "url": "https://medium.com/codefiction/nedir-yahu-%C5%9Fu-ethereum-f545aad58910" },
+        { "title": "Ethereum Ve Akıllı Kontratlar", "url": "https://medium.com/t%C3%BCrkiye/bu-kontratlar-%C3%A7ok-ak%C4%B1ll%C4%B1-ethereum-ve-ak%C4%B1ll%C4%B1-kontratlar-15525b13a9ec" },
+        { "title": "Çok Akıllı Sözleşmeler", "url": "https://medium.com/@sdogantekin/%C3%A7ok-ak%C4%B1ll%C4%B1-s%C3%B6zle%C5%9Fmeler-80a3a9938fa6" },
+        { "title": "Tanrı Protokolleri", "url": "https://medium.com/@mesutgulecen/the-god-protocols-nick-szabo-t%C3%BCrk%C3%A7e-6d5c21422754" },
+        { "title": "Ethereum Öğrenme Kılavuzu", "url": "https://medium.com/@denizozzgur/ethereum-%C3%B6%C4%9Frenme-k%C4%B1lavuzu-83b9734f0d1d" },
+        { "title": "Ethereum ve Güvenlik Sorunları", "url": "https://medium.com/codefiction/ethereum-ve-g%C3%BCvenlik-sorunlar%C4%B1-fd0e43fcc5fa" },
+        { "title": "Nedir şu ICO (Initial Coin Offering) dedikleri?", "url": "https://medium.com/codefiction/nedir-%C5%9Fu-ico-initial-coin-offering-dedikleri-8619e55eafe2" },
+        { "title": "Yeni Başlayanlar için Ethereum Madenciliği", "url": "https://bitcoinlerim.com/yeni-baslayanlar-icin-ethereum-madenciligi/" },
+        { "title": "DAO Nedir? DAO Nasıl Çalışır?", "url": "https://koinmedya.com/2018/07/13/dao-nedir-kapsamli-inceleme/" }
+    ],
+    "hyperledger":
+    [
+        { "title": "Hyperledger Nedir?", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-nedir-81530cac99dd" },
+        { "title": "Hyperledger’a Giriş", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledgera-giri%C5%9F-f5eddb5e31e0" },
+        { "title": "Hyperledger Mimarisi-Bölüm 1", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-mimarisi-b%C3%B6l%C3%BCm-1-8e84daad4d44" },
+        { "title": "Hyperledger Mimarisi-Bölüm 2", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-mimarisi-b%C3%B6l%C3%BCm-2-e4ef0f4b49fa" },
+        { "title": "Hyperledger Cello: Hizmet Olarak Blokzinciri (BaaS)", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-cello-hizmet-olarak-blokzinciri-baas-3dc287d35c48" },
+        { "title": "Hyperledger Sawtooth: WhitePaper", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-sawtooth-whitepaper%C4%B1-f68660f63f4a" },
+        { "title": "Hyperledger Ekosistemindeki 13 Proje", "url": "https://bctr.org/hyperledger-ekosistemindeki-13-proje-9180/" },
+        { "title": "Hyperledger Composer : Genel Bakış", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-composer-genel-bak%C4%B1%C5%9F-1e971b2b5a79" },
+        { "title": "Hyperledger Composer ile Uygulama Geliştirme #1 : Temel Kavramlar", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-composer-ile-uygulama-geli%C5%9Ftirme-1-temel-kavramlar-20e433fc0db2" },
+        { "title": "Hyperledger Composer ile Uygulama Geliştirme #2 : Composer Modelleme Dili", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-composer-ile-uygulama-geli%C5%9Ftirme-2-composer-modelleme-dili-cto-dosyas%C4%B1-f5b61bd34752" },
+        { "title": "Hyperledger Composer ile Uygulama Geliştirme #3 : Erişim Kontrol Dosyası", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-composer-ile-uygulama-geli%C5%9Ftirme-3-eri%C5%9Fim-kontrol-dosyas%C4%B1-acl-87c31e3bf4e5" }
+    ],
+    "books":
+    [
+        { "title": "Blockchain 101", "url": "https://www.bkm.com.tr/wp-content/uploads/2018/06/blockchain-101-v2.pdf" },
+        { "title": "Keşif: Blockchain’in Sırları", "url": "https://bkm.com.tr/kesif-blockchainin-sirlari-bbn-faz1/" },
+        { "title": "Solidity", "url": "https://github.com/denizozzgur/Solidity_TR" }
+    ],
+    "magazines":
+    [
+        { "title": "KryptEd U : Sayı 1", "url": "http://www.krypted.org/assets/sayi-1.pdf" },
+        { "title": "KryptEd U : Sayı 2", "url": "http://www.krypted.org/assets/sayi-2.pdf" },
+        { "title": "KryptEd U : Sayı 3", "url": "http://www.krypted.org/assets/sayi-3.pdf" },
+        { "title": "Fibo Dergi : Sayı 1", "url": "https://drive.google.com/file/d/1gcWux_ZshpQsC-m7I12U7GRJ8m-uR0_J/view" },
+        { "title": "Fibo Dergi : Sayı 2", "url": "https://drive.google.com/file/d/1SyLsO0u-2diSOaOS9Nxbz6CZkIPhdHG1/view" },
+        { "title": "Fibo Dergi : Sayı 3", "url": "https://drive.google.com/file/d/1vDgYKyjsPYB02sMksj2pG7rjg7WkbFei/view" },
+        { "title": "Fibo Dergi : Sayı 4", "url": "https://drive.google.com/file/d/15PzSspMTJoSB_ny6gKBuNGGc104dwgfO/view" },
+        { "title": "Fibo Dergi : Sayı 5", "url": "https://drive.google.com/file/d/1ETOAw0byc-ih5NSTQ37zFPR4kxy2wuFh/view" },
+        { "title": "Fibo Dergi : Sayı 6", "url": "https://drive.google.com/file/d/1Eplai4tmwr_WZdSAX8Lm5DrFXNRMgH_z/view" },
+        { "title": "Fibo Dergi : Sayı 7", "url": "https://drive.google.com/file/d/1wnr_aluYCOdq2-I_FA4tONw5tENwdb4Y/view" },
+        { "title": "Fibo Dergi : Sayı 8", "url": "https://drive.google.com/file/d/1gNl2aFq2q6gtugpT-6YJbhrqOgtgZ9Js/view" },
+        { "title": "Fibo Dergi : Sayı 9", "url": "https://drive.google.com/file/d/1zBfnup-F5ALZTXYudVWBzZuj5K5d08vC/view" },
+        { "title": "Fibo Dergi : Sayı 10", "url": "https://drive.google.com/file/d/1X1ceHySyJJZS4x6QMF7fX7v2AIjY7x3f/view" }
+    ],
+    "reports":
+    [
+        { "title":"Dijital Kimlik Raporu", "url": "https://t.co/aCAvL4HzB3" }, 
+        { "title":"Blokzinciri Regülasyonları Raporu", "url": "https://t.co/vKltiyM7aO" },
+        { "title":"Üretim Lojistik Raporu", "url": "https://t.co/lCGl0ETVHW" }, 
+        { "title":"Blockchain için Kavramsal Mimari Raporu", "url": "https://t.co/vASDWB2ovb" } 
+    ],
+    "podcasts":
+    [
+        { "title": "OnChain", "url": "https://open.spotify.com/show/7lKsbLFuWBAoOZcqj2ksuP?si=Kd1zSmajR56RqlIQq_57IA" }
+    ],
+    "platforms":
+    [
+        { "title": "BCTR", "url": "https://bctr.org/" },
+        { "title": "Hyperledger Türkiye", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu" },
+        { "title": "Unichain", "url": "https://medium.com/unichain-tr" },
+        { "title": "Prantist", "url": "https://twitter.com/prant_ist" }
+    ],
+    "forums":
+    [
+        { "title": "Altcointurk", "url": "https://www.altcointurk.com/" },
+        { "title": "Muhabbit Discord", "url": "https://discordapp.com/invite/GDCQQKd" },
+        { "title": "Bitsözlük", "url": "https://bitsozluk.com/" }
+    ],
+    "projects":
+    [
+        { "title": "AvaLabs", "url": "https://avalabs.org/" },
+        { "title": "Paratica", "url": "https://www.paratica.com/" },
+        { "title": "Block-Z", "url": "https://blok-z.com/v2/" },
+        { "title": "Menapay", "url": "https://www.menapay.io/" },
+        { "title": "KryptEd", "url": "http://www.krypted.org/" },
+        { "title": "Colendi", "url": "https://www.colendi.com/" }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,177 @@
+{
+    "getting_started": 
+    [
+        { "title": "Bitcoin Whitepaper" , "url": "https://medium.com/bili%C5%9Fim-hareketi/her-%C5%9Feyi-ba%C5%9Flatan-makale-bitcoin-pdf-b326e4c09250" },
+        { "title":  "Bitcoin Ne Tam Olarak?" , "url": "https://medium.com/t%C3%BCrkiye/bitcoin-ne-tam-olarak-ca9f376a2ece" },
+        { "title": "Bitcoin Nedir? (19 dk video)" , "url": "https://www.youtube.com/watch?v=xJgy6G6CH7c" },
+        { "title": "Bitcoin: Genel Bakış (11 dk video)" , "url": "https://www.youtube.com/watch?v=1iW941pQ3OU" },
+        { "title": "Bitcoin Para Mı Gerçekten? Nasıl?"	 , "url": "https://medium.com/t%C3%BCrkiye/bitcoin-para-m%C4%B1-ger%C3%A7ekten-nas%C4%B1l-ff5163e24b3d" },
+        { "title": "Bütün bunlar bir balon mu?" , "url": "https://medium.com/@turansert/b%C3%BCt%C3%BCn-bunlar-bir-balon-mu-bdaa7d69c36c" },
+        { "title": "Bitcoin işlemi nasıl gerçekleşiyor?" , "url": "https://medium.com/@turansert/bitcoin-i%C5%9Flemi-nas%C4%B1l-ger%C3%A7ekle%C5%9Fiyor-a98ecf340ae1" },
+        { "title": "Bitcoin Nasıl Çalışıyor? (5 dk video)" , "url": "https://www.youtube.com/watch?v=l9jOJk30eQs"  },
+        { "title": "Bitcoin ve Kriptoparalar Nasıl Çalışır (26 dk video)" , "url": "https://www.youtube.com/watch?v=bBC-nXj3Ng4"  },
+        { "title": "Bitcoin İnsanlık Tarihinin En Önemli İcadı Olabilir mi? (15 dk video)" , "url": "https://www.youtube.com/watch?v=ENwtC8LgPcw"  },
+        { "title": "Bitcoin’in Teknolojik Öğretileri" , "url": "https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7" },
+        { "title": "Bitcoin’in Felsefi Öğretileri" , "url": "https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc" },
+        { "title": "Bitcoin’in Ekonomi Öğretileri" , "url": "https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525" },
+        { "title": "Bitcoin’in Çekim Yasası" , "url": "https://medium.com/@denizozzgur/bitcoinin-%C3%A7ekim-yasas%C4%B1-1dbe3e8698af" },
+        { "title": "Bitcoin Çağında Para Kazanmak" , "url": "https://medium.com/@denizozzgur/bitcoin-%C3%A7a%C4%9F%C4%B1nda-para-kazanmak-5defde1dee1" },
+        { "title": "Bitcoin Sözlüğü" , "url": "https://bitcoin.org/tr/kelime-haznesi#adres" },
+        { "title": "Bitcoin Merkezi Olmayan Bir Organizmadır" , "url": "https://medium.com/@mesutgulecen/bitcoin-merkezi-olmayan-bir-organizmad%C4%B1r-miselyum-b%C3%B6l%C3%BCm-1-3-714c2446f341" },
+        { "title": "Türkiye’nin 40 yıldır bitcoin altyapısı var!" , "url": "https://medium.com/turkce/t%C3%BCrkiye-nin-40-y%C4%B1ld%C4%B1r-bitcoin-altyap%C4%B1s%C4%B1-var-98d05892e40c" },
+        { "title": "Bitcoin Hakkında Yanlış Bilinenler" , "url": "https://medium.com/kripto-para/bitcoin-hakkinda-yanlis-bilinenler-43d438efa94f" },
+        { "title": "Bitcoin Hakkında Bilinmesi Gereken 9 Gerçek" , "url": "https://medium.com/kripto-para/bitcoin-hakkinda-bilinmesi-gereken-9-gercek-18f872aca30" },
+        { "title": "Bitcoin hakkında 13 soru ve cevap" , "url": "https://medium.com/@ahmetusta/https-medium-com-ahmetusta-bitcoin-hakkinda-13-soru-ve-cevap-217101d7ed5c" },
+        { "title": "Bitcoin Geniş Kitlelere Nasıl Yayılır?" , "url": "https://medium.com/t%C3%BCrkiye/bitcoin-geni%C5%9F-kitlelere-nas%C4%B1l-yay%C4%B1l%C4%B1r-f7b485d75854" },
+        { "title": "Bitcoin Yolun Sonu Mu?" , "url": "https://medium.com/t%C3%BCrkiye/bitcoin-yolun-sonu-mu-e60489b88dbf" },
+        { "title": "Bitcoin Sık Sorulan Sorular" , "url": "https://bitcoinlerim.com/sik-sorulan-sorular/" },
+        { "title": "Genesis Bloğu" , "url": "https://bitcoinlerim.com/genesis-blogu/" },
+        { "title": "Bitcoin ve Kripto Paraların Geleceği (39 dk video)" , "url": "https://www.youtube.com/watch?v=6W2dysSvPtA" },
+        { "title": "Bitcoin’i Çocuklara Nasıl Anlatırdınız?", "url": "https://medium.com/kripto-para/cocuklara-bitcoin-anlatmak-b0574159d036" }
+    ],
+    "history":
+    [
+        { "title": "B-Money / Wei Dai", "url": "https://medium.com/@mesutgulecen/b-money-wei-dai-t%C3%BCrk%C3%A7e-fee91d128d21" },
+        { "title": "Digital Cash & Privacy / Hal Finney", "url": "https://medium.com/@mesutgulecen/digital-cash-privacy-hal-finney-t%C3%BCrk%C3%A7e-177c95fa6837" },
+        { "title": "Bit Gold / Nick Szabo", "url": "https://medium.com/@mesutgulecen/bit-gold-nick-szabo-t%C3%BCrk%C3%A7e-9787c2d90ade" },
+        { "title": "Bitcoin ve Ben / Hal Finney", "url": "https://medium.com/@mesutgulecen/bitcoin-and-me-hal-finney-t%C3%BCrk%C3%A7e-64ab3c658f9b" },
+        { "title": "Bir Şifrepunk’ın Bildirisi", "url": "https://blog.boramalper.org/bir-sifrepunkin-bildirisi/" },
+        { "title": "Bitcoin'de 10 Yıl", "url": "https://medium.com/kripto-para/10-yilda-bitcoin-66a22f7fb594" },
+        { "title": "Bitcoin Tarihi", "url": "https://bitcoinlerim.com/bitcoin-tarihi/" }
+    ],
+    "stats": 
+    [
+        { "title": "Blockchain Grafikleri", "url": "https://blockchain.info/charts" },
+        { "title": "Bitcoin Grafikleri", "url": "https://bitcoinvisuals.com/" },
+        { "title": "Bitcoin Fee Hesaplayıcı", "url": "https://bitcoiner.live/" },
+        { "title": "Blockstream.info", "url": "https://blockstream.info/" },
+        { "title": "Bitcoin Node'larının Dağılımı", "url": "https://bitnodes.earn.com/" }
+    ],
+    "deep_dive":
+    [
+        { "title": "Bitcoin Developer Guide", "url": "https://bitcoin.org/en/developer-guide" },
+        { "title": "Bitcoin Improvement Proposals", "url": "https://github.com/bitcoin/bips/blob/master/README.mediawiki" },
+        { "title": "Bitcoin Edge Workshop (20+ hours of tutorials)", "url": "https://www.youtube.com/channel/UCywSzGiWWcUG1gTp45YdPUQ/videos" },
+        { "title": "Bitcoin Protocol tutorials", "url": "https://www.youtube.com/playlist?list=PLQ56Yiu6lEayrOrjxefwkxKakZgMNIzL0" },
+        { "title": "Crypto Primitives tutorials", "url": "https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x" },
+        { "title": "The Bitcoin Wiki", "url": "https://en.bitcoin.it/wiki/Main_Page" },
+        { "title": "Blockchain Reading List", "url": "https://github.com/reiver/blockchain-reading-list" },
+        { "title": "Comprehensive Academic Bitcoin Research Archive", "url": "https://cdecker.github.io/btcresearch/" },
+        { "title": "Mastering Bitcoin", "url": "https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc" },
+        { "title": "Programming Bitcoin", "url": "https://github.com/jimmysong/programmingbitcoin/blob/master/all.asciidoc" },
+        { "title": "Epic List of Bitcoin Books", "url": "https://github.com/Xel/Blockchain-stuff#bitcoin" },
+        { "title": "Intro to Bitcoin for Developers", "url": "http://davidederosa.com/basic-blockchain-programming/" },
+        { "title": "Why Run a Full Node?", "url": "https://medium.com/@lopp/securing-your-financial-sovereignty-3af6fe834603" },
+        { "title": "How to Run a Full Node", "url": "https://bitcoin.org/en/full-node" },
+        { "title": "Raspberry Pi Node Guide", "url": "https://medium.com/@meeDamian/bitcoin-full-node-on-rbp3-revised-88bb7c8ef1d1" }
+    ],
+    "dev_tools":
+    [
+        { "title": "Araçlar Arşiv Listesi", "url": "https://github.com/igorbarinov/awesome-bitcoin" },
+        { "title": "BTCPay Ödeme İşlemcisi", "url": "https://github.com/btcpayserver/btcpayserver" },
+        { "title": "Bitcoin Graph Veritabanı Oluşturucu", "url": "https://github.com/straumat/blockchain2graph" },
+        { "title": "BitcoinJS: JavaScript Kütüphanesi", "url": "https://github.com/bitcoinjs/bitcoinjs-lib" },
+        { "title": "Bitcoin Java Kütüphanesi", "url": "https://bitcoinj.github.io/" },
+        { "title": "Bitcoin Python Kütüphanesi", "url": "https://ofek.github.io/bit/" },
+        { "title": "Bitcoin Scala Kütüphanesi", "url": "https://github.com/bitcoin-s/bitcoin-s-core" },
+        { "title": "Bitcoin Script IDE", "url": "https://siminchen.github.io/bitcoinIDE/build/editor.html" },
+        { "title": "Bitcoin Script Debugger", "url": "https://github.com/kallewoof/btcdeb" },
+        { "title": "NodeJS HD Key Kütüphanesi", "url": "https://github.com/cryptocoinjs/hdkey" },
+        { "title": "Vanity Adres Oluşturucu", "url": "https://github.com/samr7/vanitygen" },
+        { "title": "Bitcoin’i Kodlamak — 1 (Golang ile) ", "url": "https://medium.com/@farukterzioglu/bitcoini-kodlamak-1-golang-ile-5e7833c0dc19" },
+        { "title": "Bitcoin’i Kodlamak —2 (Golang ile) ", "url": "https://medium.com/@farukterzioglu/bitcoini-kodlamak-2-golang-ile-2035a7842adc" },
+        { "title": "Bitcoin’i Kodlamak — 3 (Golang ile)", "url": "https://medium.com/@farukterzioglu/bitcoini-kodlamak-3-golang-ile-25b2df2d4f00" },
+        { "title": "Bitcoin Full Node Çalıştırmak (Raspberry Pi ile)", "url": "https://medium.com/@farukterzioglu/bitcoin-full-node-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmak-raspberry-pi-ile-2b9690df9e80" }
+    ],
+    "careers":
+    [
+        { "title": "AngelList Blockchain Startups", "url": "https://angel.co/blockchains/jobs" },
+        { "title": "Coinality", "url": "https://coinality.com/" },
+        { "title": "Crypto Jobs", "url": "https://crypto.jobs/" },
+        { "title": "Cryptocurrency Jobs", "url": "https://cryptocurrencyjobs.co/" },
+        { "title": "Crypto Jobs List", "url": "https://cryptojobslist.com/" },
+        { "title": "Developer Jobs", "url": "https://blockchaindevjobs.com/" },
+        { "title": "Jobs4Bitcoins subreddit", "url": "https://www.reddit.com/r/Jobs4Bitcoins/" }
+    ],
+    "courses":
+    [
+        { "title": "Bitcoin - Kripto Para - Blockchain ve Mining Eğitimi", "url": "https://www.udemy.com/kriptopara-egitimi/" },
+        { "title": "Kripto Para Piyasası Alım & Satım Rehberi", "url": "https://www.udemy.com/kripto-para-piyasas-alm-satm-rehberi/" },
+        { "title": "Binance Akademi (Trade)", "url": "https://www.binance.vision/tr/economics" }
+    ],
+    "tech_analysis":
+    [
+        { "title": "Altcoin Piyasasında Kullanılan Terimler", "url": "https://www.coinolog.com/altcoin-piyasasinda-kullanilan-terimler/" },
+        { "title": "Teknik Analiz Küçük İpuçları", "url": "https://medium.com/@_Whit3_Rabbit/teknik-analiz-k%C3%BC%C3%A7%C3%BCk-i%CC%87pu%C3%A7lar%C4%B1-668b0701d9de" },
+        { "title": "Kripto para piyasası hakkında bilmeniz gereken herşey!", "url": "https://medium.com/@altuggamertr/kripto-para-piyasas%C4%B1-hakk%C4%B1nda-bilmeniz-gereken-her%C5%9Fey-e6d72f80054" },
+        { "title": "Grafikler Nasıl Okunur", "url": "https://medium.com/@BtcTurk/teknik-analiz-1-grafikler-nasil-okunur-f0d73c6d8137" }
+    ],
+    "documentaries": 
+    [
+        { "title": "Banking on Bitcoin", "url": "https://www.netflix.com/title/80154500" },
+        { "title": "Paranın Yeniden Keşfi: Bitcoin", "url": "https://www.youtube.com/watch?v=gnclsLp_NDU" }
+    ],
+    "books":
+    [
+        { "title": "Kriptopara Çağı", "url": "https://www.google.com/search?q=Kriptopara+%C3%87a%C4%9F%C4%B1:+Bitcoin+ve+Dijital+Paran%C4%B1n+K%C3%BCresel+Ekonomik+Sisteme+Meydan+Okumas%C4%B1&source=lnms&sa=X&ved=0ahUKEwipjKGHyajiAhXCJ1AKHWPWB10Q_AUIOygA&biw=1280&bih=621" },
+        { "title": "Bitcoin Standardı", "url": "https://www.google.com/search?q=bitcoin+strandart%C4%B1" },
+        { "title": "Kripto Para Bitcoin: Finansal Özgürlügün Pesinde", "url": "https://www.google.com/search?q=Kripto+Para+Bitcoin:+Finansal+%C3%96zg%C3%BCrl%C3%BCg%C3%BCn+Pesinde+Levent+Kurt&stick=H4sIAAAAAAAAAONgecS4lJFb4OWPe8JSsxknrTl5jXEKIxdXcEZ-uWteSWZJpZAeFxuUpcIlKMWrn65vaJienmtUkmOQpcEgxc-FKiRkyMUZlJqTWJKaEpKPqsXQ2DI7HVULWEhJ2Yh_16Vp59g4BdXqJisw6gY5PFrduYqVyYChad-KQ2wsHIwCDDyLWB28izILSvIVAhKLEhWcMkuS8zPzrBTcMvMS84oTcxQOT6tKP7ynKOfwHiCVpxCQWpyZl5Kq4JNalppXouBdWlQCAG7Rb5buAAAA&sa=X&ved=2ahUKEwi7kfukzqjiAhVCa1AKHfChDjgQ6RMwE3oECAsQBA&biw=1280&bih=621" },
+        { "title": "Bitcoin Devrimi", "url": "https://www.google.com/search?biw=1280&bih=621&ei=8dThXOWiJ8TIwAKyr7SYDA&q=Bitcoin+Devrimi+-+Serkan+%C4%B0nci%2C+%C4%B0smail+Alpen&oq=Bitcoin+Devrimi+-+Serkan+%C4%B0nci%2C+%C4%B0smail+Alpen&gs_l=psy-ab.3..33i160l2.6967.6967..7578...0.0..0.156.156.0j1......0....2j1..gws-wiz.......0i71.s6YjerXPWL8" },
+        { "title": "Bitcoin Hakkında Güncel Herşey", "url": "https://www.google.com/search?biw=1280&bih=621&ei=-dThXLPdNpCmwQKykqyYBA&q=bitcoin+hakk%C4%B1nda+g%C3%BCncel+her%C5%9Fey+&oq=bitcoin+hakk%C4%B1nda+g%C3%BCncel+her%C5%9Fey+&gs_l=psy-ab.3..33i160.72097.75079..76131...0.0..0.169.2264.18j6....2..0....1..gws-wiz.......35i39j0i67j0i131j0i131i67j0j0i10i203j0i22i30.rYr5fjXPprA" },
+        { "title": "Altın Kapının Anahtarı Bitcoin", "url": "https://www.binbircesit.com/altin-kapinin-anahtari-bitcoin-selcoin-40525" }
+    ],
+    "podcasts":
+    [
+        { "title": "BtcTurk", "url": "https://open.spotify.com/show/4WBAHmXEbNlMJmersUvHpp?si=uNHpaDpBQMqyVDGIqlB4Gg" },
+        { "title": "Kripto para nedir? Bitcoin 101", "url": "https://open.spotify.com/episode/6aq7ufrod8jvMUKeD3b6lp?si=s6CiTaRQSIKFxEjwdTZ-Ag" },
+        { "title": "İsmail Hakkı Polat ile kripto paralar üzerine", "url": "https://open.spotify.com/episode/4R6SnzqE7zeaWFoiJCbrPL?si=rG_Eb7iaSfeHXyiC93rKzw"}
+    ],
+    "youtube":
+    [
+        { "title": "Kripto Sözlük", "url": "https://www.youtube.com/channel/UC5rV0QEGbv0Y-umDwshs_HA/videos" },
+        { "title": "Kripto Teknik", "url": "https://www.youtube.com/channel/UCKdhjP8yA36w4z-oCp5uLHg/videos" },
+        { "title": "KIVANC fr3762", "url": "https://www.youtube.com/channel/UCbOmzoxl_JLrboEvY7KINgg/videos?pbjreload=10" },
+        { "title": "Paratica", "url": "https://www.youtube.com/channel/UCKFlWP2m0UQCVeNgXq3EZWw/videos" }
+    ],
+    "news":
+    [
+        { "title": "Kripto Para Platformu", "url": "https://www.kriptopara.org/" },
+        { "title": "Uzmancoin", "url": "https://uzmancoin.com/" },
+        { "title": "Koin Bülteni", "url": "https://koinbulteni.com/" },
+        { "title": "Coin Türk", "url": "https://coin-turk.com/" },
+        { "title": "Kriptopara Haber", "url": "https://kriptoparahaber.com/" }
+    ],
+    "forums":
+    [
+        { "title": "Altcointurk", "url": "https://www.altcointurk.com/" },
+        { "title": "Muhabbit Discord", "url": "https://discordapp.com/invite/GDCQQKd" },
+        { "title": "Bitcointalk", "url": "https://bitcointalk.org/index.php?board=133.0" },
+        { "title": "Bitsözlük", "url": "https://bitsozluk.com/" }
+    ],
+    "exchanges":
+    [
+        { "title": "Binance", "url": "https://www.binance.com/?ref=11656707" },
+        { "title": "Bitay", "url": "https://www.bitay.com/ref/AAF26C0E" },
+        { "title": "Koinim", "url": "https://koinim.com/" },
+        { "title": "BtcTurk", "url": "https://www.btcturk.com/" },
+        { "title": "Koineks", "url": "https://koineks.com/" },
+        { "title": "Paribu", "url": "https://www.paribu.com/#/" }
+    ],
+    "auto_trade":
+    [
+        { "title": "Paratica", "url": " https://www.paratica.com/" }
+    ],
+    "wallets":
+    [
+        { "text": "Fiziksel Cüzdan", "title": "Ledger Nano S", "url":"https://www.binbircesit.com/ledger-wallet-offline-bitcoin-usb-cuzdani-" },
+        { "text": "Masaüstü için", "title": "Electrum", "url":"https://electrum.org/#home" },
+        { "text": "Android için", "title": "Samourai Wallet", "url":"https://play.google.com/store/apps/details?id=com.samourai.wallet" },
+        { "text": "iPhone için", "title": "Blockstream Green", "url":"https://itunes.apple.com/app/id1402243590" },
+        { "text": "Web için", "title": "BitGo", "url":"https://www.bitgo.com/" },
+        { "text": "Ekstra Gizlilik", "title": "Wasabi", "url":"https://wasabiwallet.io/" },
+        { "text": "Ekstra Güvenlik", "title": "Casa", "url":"https://keys.casa/" }
+    ]
+    
+}
+
+
