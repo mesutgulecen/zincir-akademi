@@ -74,6 +74,7 @@ window.onload = () => {
         
         // podcasts
         $("h2#podcasts").text('Podcast:');   
+        $("h2#podcasts").after('<ul id="podcasts-list"></ul>');
         blockchainResources.podcasts.forEach(element => {
             $("ul#podcasts-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
