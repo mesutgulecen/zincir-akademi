@@ -33,7 +33,10 @@
         { "title": "Hot Wallet vs Cold Wallet", "url": "https://medium.com/@egetekiner/hot-wallet-s%C4%B1cak-c%C3%BCzdan-vs-cold-wallet-so%C4%9Fuk-c%C3%BCzdan-e67f35a7f855" },
         { "title": "PoSE ( Masternode ) Konsensüs Methodu", "url": "https://medium.com/@egetekiner/pose-masternode-konsens%C3%BCs-methodu-7d6810c0d80c" },
         { "title": "Blokzincirin Temelleri — 1", "url": "https://medium.com/hepsiburadatech/blokzincirin-temelleri-18817315bf26" },
-        { "title": "Blokzincirin Temelleri — 2", "url": "https://medium.com/hepsiburadatech/blokzincirin-temelleri-e1bdf3f7e90c" }
+        { "title": "Blokzincirin Temelleri — 2", "url": "https://medium.com/hepsiburadatech/blokzincirin-temelleri-e1bdf3f7e90c" },
+        { "title": "CAP Teorisi ve Blokzincir", "url": "https://medium.com/@kamer.dev/cap-teorisi-ve-blokzincir-8b4798080601"},
+        { "title": "Avalanche Projesi ve Blokzincir Teknolojisine Getirdiği Yenilikler", "url": "https://medium.com/@egetekiner/avalanche-projesi-ve-blokzincir-teknolojisine-getirdi%C4%9Fi-yenilikler-b153242920f3" },
+        { "title": "İşletmeniz İçin Hangi Blokzinciri Ağını Seçmelisiniz?", "url": "https://medium.com/@nxng/i%CC%87%C5%9Fletmeniz-i%CC%87%C3%A7in-hangi-blokzinciri-a%C4%9F%C4%B1n%C4%B1-se%C3%A7melisiniz-22e75390a2bb" }
     ],
     "use_cases":
     [
@@ -51,7 +54,9 @@
         { "title": "Kimlik v2.0", "url": "https://medium.com/@sdogantekin/kimlik-v2-0-9a7662a81861" },
         { "title": "Dijital Kimliğinize İyi Bakın", "url": "https://medium.com/t%C3%BCrkiye/dijital-kimli%C4%9Finize-i%CC%87yi-bak%C4%B1n-b36a2ae12fc7" },
         { "title": "Akıllı Belediyecilik ve Blockchain", "url": "https://ismailhpolat.com/ak%C4%B1ll%C4%B1-belediyecilik-ve-blockchain-570f3d9a09d8" },
-        { "title": "Tedarik zinciri için Blockchain", "url": "https://medium.com/@turansert/tedarik-zinciri-i%C3%A7in-blockchain-67961c362880" }
+        { "title": "Tedarik zinciri için Blockchain", "url": "https://medium.com/@turansert/tedarik-zinciri-i%C3%A7in-blockchain-67961c362880" },
+        { "title": "Blokzincir ve Ekonomik Avantajlar", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/blokzincir-ile-ekonomik-avantajlar-kap%C4%B1s%C4%B1n%C4%B1-aralay%C4%B1n-8c412cf84376" },
+        { "title": "Blockchain ve Kripto Paraların Finans Sektörüne Etkileri", "url": "https://medium.com/@hknnr/blockchain-ve-kri%CC%87pto-paralarin-fi%CC%87nans-sekt%C3%B6r%C3%BCne-etki%CC%87leri%CC%87-ve-enerji%CC%87-t%C3%BCketi%CC%87mi%CC%87-96cd4b450b57" }
     ],
     "videos":
     [
@@ -117,6 +122,12 @@
         { "title": "Hyperledger Composer ile Uygulama Geliştirme #2 : Composer Modelleme Dili", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-composer-ile-uygulama-geli%C5%9Ftirme-2-composer-modelleme-dili-cto-dosyas%C4%B1-f5b61bd34752" },
         { "title": "Hyperledger Composer ile Uygulama Geliştirme #3 : Erişim Kontrol Dosyası", "url": "https://medium.com/hyperledger-t%C3%BCrkiye-platformu/hyperledger-composer-ile-uygulama-geli%C5%9Ftirme-3-eri%C5%9Fim-kontrol-dosyas%C4%B1-acl-87c31e3bf4e5" }
     ],
+    "libra":
+    [
+        { "title": "Libra Whitepaper", "url": "https://medium.com/@tasebru/libra-i%CC%87zahnamesi-white-paper-b9662eb7cb3f" },
+        { "title": "Libra Nedir? Libra Testnet İncelemesi", "url": "https://medium.com/hitarge/libra-nedir-libra-testnet-i%CC%87ncelemesi-2d90077c0925" },
+        { "title": "Facebook’un Parası Libra", "url": "https://medium.com/t%C3%BCrkiye/facebookun-paras%C4%B1-libra-ile-ilgili-t%C3%BCm-bilmek-isteyecekleriniz-5ce29e370521" }
+    ],        
     "books":
     [
         { "title": "Blockchain 101", "url": "https://www.bkm.com.tr/wp-content/uploads/2018/06/blockchain-101-v2.pdf" },
