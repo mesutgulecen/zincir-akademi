@@ -50,6 +50,13 @@ window.onload = () => {
         blockchainResources.hyperledger.forEach(element => {
             $("ul#hyperledger-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
+            
+        // libra
+        $("h2#libra").text('Libra:');   
+        $("h2#libra").after('<ul id="libra-list"></ul>');   
+        blockchainResources.libra.forEach(element => {
+            $("ul#libra-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
+        });
 
         // books
         $("h2#books").text('Kitap:');   
