@@ -1,5 +1,5 @@
 window.onload = () => {
-        
+    $('body').fadeIn(1000);        
     $.getJSON('/resources/trade-resources.json', function(blockchainResources) {
         
         // getting_started
