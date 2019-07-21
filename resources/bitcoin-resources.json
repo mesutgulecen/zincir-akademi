@@ -128,19 +128,6 @@
         { "title": "Bitcointalk", "url": "https://bitcointalk.org/index.php?board=133.0" },
         { "title": "Bitsözlük", "url": "https://bitsozluk.com/" }
     ],
-    "exchanges":
-    [
-        { "title": "Binance", "url": "https://www.binance.com/?ref=11656707" },
-        { "title": "Bitay", "url": "https://www.bitay.com/ref/AAF26C0E" },
-        { "title": "Koinim", "url": "https://koinim.com/" },
-        { "title": "BtcTurk", "url": "https://www.btcturk.com/" },
-        { "title": "Koineks", "url": "https://koineks.com/" },
-        { "title": "Paribu", "url": "https://www.paribu.com/#/" }
-    ],
-    "auto_trade":
-    [
-        { "title": "Paratica", "url": " https://www.paratica.com?ref=632630690" }
-    ],
     "wallets":
     [
         { "text": "Fiziksel Cüzdan", "title": "Ledger Nano S", "url":"https://www.binbircesit.com/ledger-wallet-offline-bitcoin-usb-cuzdani-" },
