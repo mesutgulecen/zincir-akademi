@@ -24,7 +24,7 @@
         { "title": "Kripto Para Piyasası Alım & Satım Rehberi", "url": "https://www.udemy.com/kripto-para-piyasas-alm-satm-rehberi/" },
         { "title": "Binance Akademi (Trade)", "url": "https://www.binance.vision/tr/economics" }
     ],
-	 "youtube":
+    "youtube":
     [
         { "title": "Kripto Sözlük", "url": "https://www.youtube.com/channel/UC5rV0QEGbv0Y-umDwshs_HA/videos" },
         { "title": "Kripto Teknik", "url": "https://www.youtube.com/channel/UCKdhjP8yA36w4z-oCp5uLHg/videos" },
@@ -44,12 +44,12 @@
         { "title": "Koineks", "url": "https://koineks.com/" },
         { "title": "Paribu", "url": "https://www.paribu.com/#/" }
     ],
-	"auto-trade":
+    "auto-trade":
     [
         { "title": "Paratica", "url": " https://www.paratica.com?ref=632630690" },
         { "title": "Auto Trade Kullanımı", "url": "https://www.youtube.com/watch?v=kTecQU8idqY&list=PLmYAkBYZO1bLjVKatapWuARB5ERqm0aOg&index=1" }
     ], 
-	"technical":
+    "technical":
     [
         { "title": "Grafik Tipleri", "url": "http://www.teknikanalizsanati.com/grafikler.aspx" },
         { "title": "Destek ve Dirençler", "url": "http://www.teknikanalizsanati.com/destekdirenc.aspx" },
@@ -73,10 +73,10 @@
         { "title": "Tepe ve Dip Formasyonları", "url": "https://drive.google.com/open?id=1xBZhGWyvJ09z5XZReJtqCSjT51o8x8M3" },
         { "title": "Bayrak ve Flama Formasyonları", "url": "https://drive.google.com/open?id=1n1neeLZgdHsRIytAVyTLpo53Xk8ZPfIw" },
         { "title": "Wolfe Formasyonu", "url": "https://drive.google.com/open?id=1EPeBjaKCNFdxaZKYhQBpU9eA-F75-KRX " },
-		{ "title": "OBO ve TOBO", "url": "https://drive.google.com/open?id=1nxJdSqo1Lp7jadew8SIPzUwW8mquZGtV" },
-		{ "title": "Hareketli Ortalama", "url": "https://threadreaderapp.com/thread/1053294612918476800.html?refreshed=yes" },
-		{ "title": "Dinamik RR", "url": "https://threadreaderapp.com/thread/1148340740386426885.html?refreshed=yes" },
-		{ "title": "DOW Kuramı", "url": "https://drive.google.com/open?id=1TH3n2cUUY9OhXCbkXae1KrTwvVL0-2WM" },
-		{ "title": "Margin Trade (Long&Short)", "url": "https://twitter.com/cberktavsan/status/964153852323868672" }
-    ],       
+	{ "title": "OBO ve TOBO", "url": "https://drive.google.com/open?id=1nxJdSqo1Lp7jadew8SIPzUwW8mquZGtV" },
+	{ "title": "Hareketli Ortalama", "url": "https://threadreaderapp.com/thread/1053294612918476800.html?refreshed=yes" },
+	{ "title": "Dinamik RR", "url": "https://threadreaderapp.com/thread/1148340740386426885.html?refreshed=yes" },
+	{ "title": "DOW Kuramı", "url": "https://drive.google.com/open?id=1TH3n2cUUY9OhXCbkXae1KrTwvVL0-2WM" },
+	{ "title": "Margin Trade (Long&Short)", "url": "https://twitter.com/cberktavsan/status/964153852323868672" }
+    ]       
 }
