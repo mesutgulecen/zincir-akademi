@@ -10,14 +10,14 @@
         { "title": "Kripto Para Piyasasına Giriş", "url": "https://threadreaderapp.com/thread/976057048277413889.html?refreshed=yes" },
         { "title": "Başarılı Trade ve 11 Hata", "url": "https://threadreaderapp.com/thread/1062295381026000897.html?refreshed=yes" },
         { "title": "Hodl Kültürü", "url": "https://twitter.com/cberktavsan/status/973175507759128576" },
-        { "title": "Yaygın Trade Çeşitleri", "url": "https://twitter.com/_ErkanG/status/1053997993962233857" },
+        { "title": "Yaygın Trade Çeşitleri", "url": "https://twitter.com/_ErkanG/status/1053997993962233857" }
     ],
     "forums":
     [
         { "title": "Altcointurk Forum", "url": "https://www.altcointurk.com/" },
         { "title": "Muhabbit Discord", "url": "https://discordapp.com/invite/GDCQQKd" },
-		{ "title": "Paratica Telegram", "url": "https://t.me/paratica_tr" }
-	],
+	{ "title": "Paratica Telegram", "url": "https://t.me/paratica_tr" }
+    ],
     "courses":
     [
         { "title": "Bitcoin - Kripto Para - Blockchain ve Mining Eğitimi", "url": "https://www.udemy.com/kriptopara-egitimi/" },
@@ -28,7 +28,7 @@
     [
         { "title": "Kripto Sözlük", "url": "https://www.youtube.com/channel/UC5rV0QEGbv0Y-umDwshs_HA/videos" },
         { "title": "Kripto Teknik", "url": "https://www.youtube.com/channel/UCKdhjP8yA36w4z-oCp5uLHg/videos" },
-        { "title": "KIVANC fr3762", "url": "https://www.youtube.com/channel/UCbOmzoxl_JLrboEvY7KINgg/videos?pbjreload=10" },
+        { "title": "KIVANC fr3762", "url": "https://www.youtube.com/channel/UCbOmzoxl_JLrboEvY7KINgg/videos?pbjreload=10" }
     ],
     "books":
     [
@@ -37,7 +37,7 @@
     "exchanges":
     [
         { "title": "Binance", "url": "https://www.binance.com/?ref=11656707" },
-		{ "title": "Huobi", "url": "https://www.huobi.co/tr-tr/topic/invited/?invite_code=rjtu4" }, 
+	{ "title": "Huobi", "url": "https://www.huobi.co/tr-tr/topic/invited/?invite_code=rjtu4" }, 
         { "title": "Bitay", "url": "https://www.bitay.com/ref/AAF26C0E" },
         { "title": "Koinim", "url": "https://koinim.com/" },
         { "title": "BtcTurk", "url": "https://www.btcturk.com/" },
