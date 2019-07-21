@@ -1,0 +1,82 @@
+{
+    "getting_started":
+    [
+        { "title": "Bitcoin Alım Satım Rehberi", "url": "https://www.coinmoz.com/yeni-baslayanlar-icin-bitcoin-alim-satim-rehberi/" },
+        { "title": "Kripto Para Dünyasına Gireceklere Tavsiyeler 1", "url": "https://eksisozluk.com/entry/73222599" },
+        { "title": "Kripto Para Dünyasına Gireceklere Tavsiyeler 2", "url": "https://eksisozluk.com/entry/73240219" },
+        { "title": "Kripto Para Dünyasına Gireceklere Tavsiyeler 3", "url": "https://eksisozluk.com/entry/73494368" },
+        { "title": "Altcoin Piyasasında Kullanılan Terimler", "url": "https://www.coinolog.com/altcoin-piyasasinda-kullanilan-terimler/" },
+        { "title": "Kripto Para Piyasası Hakkında Bilmeniz Gereken Herşey", "url": "https://medium.com/@altuggamertr/kripto-para-piyasas%C4%B1-hakk%C4%B1nda-bilmeniz-gereken-her%C5%9Fey-e6d72f80054" },
+        { "title": "Kripto Para Piyasasına Giriş", "url": "https://threadreaderapp.com/thread/976057048277413889.html?refreshed=yes" },
+        { "title": "Başarılı Trade ve 11 Hata", "url": "https://threadreaderapp.com/thread/1062295381026000897.html?refreshed=yes" },
+        { "title": "Hodl Kültürü", "url": "https://twitter.com/cberktavsan/status/973175507759128576" },
+        { "title": "Yaygın Trade Çeşitleri", "url": "https://twitter.com/_ErkanG/status/1053997993962233857" },
+    ],
+    "forums":
+    [
+        { "title": "Altcointurk Forum", "url": "https://www.altcointurk.com/" },
+        { "title": "Muhabbit Discord", "url": "https://discordapp.com/invite/GDCQQKd" },
+		{ "title": "Paratica Telegram", "url": "https://t.me/paratica_tr" }
+	],
+    "courses":
+    [
+        { "title": "Bitcoin - Kripto Para - Blockchain ve Mining Eğitimi", "url": "https://www.udemy.com/kriptopara-egitimi/" },
+        { "title": "Kripto Para Piyasası Alım & Satım Rehberi", "url": "https://www.udemy.com/kripto-para-piyasas-alm-satm-rehberi/" },
+        { "title": "Binance Akademi (Trade)", "url": "https://www.binance.vision/tr/economics" }
+    ],
+	 "youtube":
+    [
+        { "title": "Kripto Sözlük", "url": "https://www.youtube.com/channel/UC5rV0QEGbv0Y-umDwshs_HA/videos" },
+        { "title": "Kripto Teknik", "url": "https://www.youtube.com/channel/UCKdhjP8yA36w4z-oCp5uLHg/videos" },
+        { "title": "KIVANC fr3762", "url": "https://www.youtube.com/channel/UCbOmzoxl_JLrboEvY7KINgg/videos?pbjreload=10" },
+    ],
+    "books":
+    [
+        { "title": "Altın Kapının Anahtarı Bitcoin", "url": "https://www.binbircesit.com/altin-kapinin-anahtari-bitcoin-selcoin-40525" }
+    ],
+    "exchanges":
+    [
+        { "title": "Binance", "url": "https://www.binance.com/?ref=11656707" },
+		{ "title": "Huobi", "url": "https://www.huobi.co/tr-tr/topic/invited/?invite_code=rjtu4" }, 
+        { "title": "Bitay", "url": "https://www.bitay.com/ref/AAF26C0E" },
+        { "title": "Koinim", "url": "https://koinim.com/" },
+        { "title": "BtcTurk", "url": "https://www.btcturk.com/" },
+        { "title": "Koineks", "url": "https://koineks.com/" },
+        { "title": "Paribu", "url": "https://www.paribu.com/#/" }
+    ],
+	"auto-trade":
+    [
+        { "title": "Paratica", "url": " https://www.paratica.com?ref=632630690" },
+        { "title": "Auto Trade Kullanımı", "url": "https://www.youtube.com/watch?v=kTecQU8idqY&list=PLmYAkBYZO1bLjVKatapWuARB5ERqm0aOg&index=1" }
+    ], 
+	"technical":
+    [
+        { "title": "Grafik Tipleri", "url": "http://www.teknikanalizsanati.com/grafikler.aspx" },
+        { "title": "Destek ve Dirençler", "url": "http://www.teknikanalizsanati.com/destekdirenc.aspx" },
+        { "title": "Destek, Direnç Seviye ve Bölgeleri", "url": "https://blog.cryptogag.com/destek-direnc-seviye-ve-bolgeleri/" },
+        { "title": "Eğilim Doğruları ve Kanallar", "url": "https://blog.cryptogag.com/egilim-dogrulari-ve-kanallar/" },
+        { "title": "Grafik Okuma ve Mumlar", "url": "https://medium.com/@BtcTurk/teknik-analiz-1-grafikler-nasil-okunur-f0d73c6d8137" },
+        { "title": "On Balance Volume", "url": "https://blog.cryptogag.com/obv-on-balance-volume-denge-islem-hacmi/" },
+        { "title": "Trend Çizgisi", "url": "https://drive.google.com/open?id=141E-RHZhpk-9A5ygJyQdJnwCq8uxdYwT" },
+        { "title": "Stop Loss Nasıl Kullanılmalı?", "url": "https://threadreaderapp.com/thread/1079286999285153792.html?refreshed=yes" },
+        { "title": "Coin Analizi ve Ön Araştırma", "url": "https://threadreaderapp.com/thread/1084135930443808771.html?refreshed=yes" },
+        { "title": "Portföy Yönetimi", "url": "https://drive.google.com/open?id=12VFLNgcOK7OWFumUxgXtgsTbCfS27nWM" },
+        { "title": "RSI Nedir?", "url": "https://blog.cryptogag.com/rsi-relative-strength-index-goreceli-guc-endeksi/" }
+        { "title": "RSI-MACD Kullanımı", "url": "https://drive.google.com/open?id=19X2KjkFnBnu8DMUaYsHGiyyar0k1z-Id" },
+        { "title": "Bolinger Bandı", "url": "https://drive.google.com/open?id=1QVpCUzBZTpG0UB6XcYE98Oa3bJiJoFBo" },
+        { "title": "Bolinger Bandı Kullanımı", "url": "https://threadreaderapp.com/thread/918057466541301760.html?refreshed=yes" },
+        { "title": "Fibonacci Kullanımı 1", "url": "https://drive.google.com/open?id=1XGbajxx0O3A80vdOKup3gjXQcf46jknr" },
+        { "title": "Fibonacci Kullanımı 2", "url": "https://drive.google.com/open?id=1iTS4NqXzC-BwZZnOs5IV5OoLW21DSZLo" },
+        { "title": "Uyumsuzluklar", "url": "https://drive.google.com/open?id=1LKdARPjhHu1UEWtGGwnVwwojp9DW24Xo" },
+        { "title": "Üçgen ve Çanak Formasyonları", "url": "https://drive.google.com/open?id=1Rrt3d95i2xb6hXyYeOENe0CPw3EYsREL" },
+        { "title": "Takoz Formasyonları", "url": "https://blog.cryptogag.com/takoz-formasyonu/ " },
+        { "title": "Tepe ve Dip Formasyonları", "url": "https://drive.google.com/open?id=1xBZhGWyvJ09z5XZReJtqCSjT51o8x8M3" },
+        { "title": "Bayrak ve Flama Formasyonları", "url": "https://drive.google.com/open?id=1n1neeLZgdHsRIytAVyTLpo53Xk8ZPfIw" },
+        { "title": "Wolfe Formasyonu", "url": "https://drive.google.com/open?id=1EPeBjaKCNFdxaZKYhQBpU9eA-F75-KRX " },
+		{ "title": "OBO ve TOBO", "url": "https://drive.google.com/open?id=1nxJdSqo1Lp7jadew8SIPzUwW8mquZGtV" },
+		{ "title": "Hareketli Ortalama", "url": "https://threadreaderapp.com/thread/1053294612918476800.html?refreshed=yes" },
+		{ "title": "Dinamik RR", "url": "https://threadreaderapp.com/thread/1148340740386426885.html?refreshed=yes" },
+		{ "title": "DOW Kuramı", "url": "https://drive.google.com/open?id=1TH3n2cUUY9OhXCbkXae1KrTwvVL0-2WM" },
+		{ "title": "Margin Trade (Long&Short)", "url": "https://twitter.com/cberktavsan/status/964153852323868672" }
+    ],       
+}
