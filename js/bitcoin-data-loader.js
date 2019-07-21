@@ -43,20 +43,6 @@ window.onload = () => {
         blockchainResources.careers.forEach(element => {
             $("ul#careers-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
-
-        // courses
-        $("h2#courses").text('Teknik Analiz Kursları:');   
-        $("h2#courses").after('<ul id="courses-list"></ul>');   
-        blockchainResources.courses.forEach(element => {
-            $("ul#courses-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
-        });
-
-        // tech_analysis
-        $("h2#tech-analysis").text('Teknik Analiz Yazıları:');   
-        $("h2#tech-analysis").after('<ul id="tech-analysis-list"></ul>');   
-        blockchainResources.tech_analysis.forEach(element => {
-            $("ul#tech-analysis-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
-        });
         
         // documentaries
         $("h2#documentaries").text('Belgesel:');   
@@ -78,14 +64,7 @@ window.onload = () => {
         blockchainResources.podcasts.forEach(element => {
             $("ul#podcasts-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
-
-        // youtube
-        $("h2#youtube").text('YouTube Kanalları:'); 
-        $("h2#youtube").after('<ul id="youtube-list"></ul>');   
-        blockchainResources.youtube.forEach(element => {
-            $("ul#youtube-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
-        });
-        
+       
         // news
         $("h2#news").text('Haber Siteleri:');
         $("h2#news").after('<ul id="news-list"></ul>');   
@@ -99,21 +78,7 @@ window.onload = () => {
         blockchainResources.forums.forEach(element => {
             $("ul#forums-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
-        
-        // exchanges
-        $("h2#exchanges").text('Kriptopara Borsaları:');  
-        $("h2#exchanges").after('<ul id="exchanges-list"></ul>');   
-        blockchainResources.exchanges.forEach(element => {
-            $("ul#exchanges-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
-        });
-        
-        // auto-trade
-        $("h2#auto-trade").text('Auto Trade Platformu:');  
-        $("h2#auto-trade").after('<ul id="auto-trade-list"></ul>');   
-        blockchainResources.auto_trade.forEach(element => {
-            $("ul#auto-trade-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
-        });
-        
+               
         // wallets
         $("h2#wallets").text('Bitcoin Cüzdanları:');  
         $("h2#wallets").after('<ul id="wallets-list"></ul>');   
