@@ -7,6 +7,8 @@ RewriteRule ^[b|B][i|I][t|T][c|C][o|O][i|I][n|N]\.html$ /bitcoin-kaynak.html [R=
 RewriteRule ^[b|B][i|I][t|T][c|C][o|O][i|I][n|N]$ /bitcoin-kaynak.html [R=301]
 RewriteRule ^[b|B][l|L][o|O][c|C][k|K][c|C][h|H][i|I][n|N]\.html$ /blockchain-kaynak.html [R=301]
 RewriteRule ^[b|B][l|L][o|O][c|C][k|K][c|C][h|H][i|I][n|N]$ /blockchain-kaynak.html [R=301]
+RewriteRule ^[t|T][r|R][a|A][d|D][e|E]\.html$ /trade-kaynak.html [R=301]
+RewriteRule ^[t|T][r|R][a|A][d|D][e|E]$ /trade-kaynak.html [R=301]
 
 # Redirect non-www to www subdomain to enable CDN
 RewriteCond %{HTTP_HOST} !^www\. [NC,OR]
