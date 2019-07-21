@@ -16,14 +16,14 @@ window.onload = () => {
             $("ul#forums-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
 		
-		// courses
+	// courses
         $("h2#courses").text('Online Kurslar:');  
         $("h2#courses").after('<ul id="courses-list"></ul>');   
         blockchainResources.courses.forEach(element => {
             $("ul#courses-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
 
-		// youtube
+	// youtube
         $("h2#youtube").text('YouTube Kanalları:');  
         $("h2#youtube").after('<ul id="youtube-list"></ul>');   
         blockchainResources.youtube.forEach(element => {
