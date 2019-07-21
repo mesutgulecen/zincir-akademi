@@ -93,19 +93,6 @@
         { "title": "Developer Jobs", "url": "https://blockchaindevjobs.com/" },
         { "title": "Jobs4Bitcoins subreddit", "url": "https://www.reddit.com/r/Jobs4Bitcoins/" }
     ],
-    "courses":
-    [
-        { "title": "Bitcoin - Kripto Para - Blockchain ve Mining Eğitimi", "url": "https://www.udemy.com/kriptopara-egitimi/" },
-        { "title": "Kripto Para Piyasası Alım & Satım Rehberi", "url": "https://www.udemy.com/kripto-para-piyasas-alm-satm-rehberi/" },
-        { "title": "Binance Akademi (Trade)", "url": "https://www.binance.vision/tr/economics" }
-    ],
-    "tech_analysis":
-    [
-        { "title": "Altcoin Piyasasında Kullanılan Terimler", "url": "https://www.coinolog.com/altcoin-piyasasinda-kullanilan-terimler/" },
-        { "title": "Teknik Analiz Küçük İpuçları", "url": "https://medium.com/@_Whit3_Rabbit/teknik-analiz-k%C3%BC%C3%A7%C3%BCk-i%CC%87pu%C3%A7lar%C4%B1-668b0701d9de" },
-        { "title": "Kripto para piyasası hakkında bilmeniz gereken herşey!", "url": "https://medium.com/@altuggamertr/kripto-para-piyasas%C4%B1-hakk%C4%B1nda-bilmeniz-gereken-her%C5%9Fey-e6d72f80054" },
-        { "title": "Grafikler Nasıl Okunur", "url": "https://medium.com/@BtcTurk/teknik-analiz-1-grafikler-nasil-okunur-f0d73c6d8137" }
-    ],
     "documentaries": 
     [
         { "title": "Banking on Bitcoin", "url": "https://www.netflix.com/title/80154500" },
@@ -125,13 +112,6 @@
         { "title": "BtcTurk", "url": "https://open.spotify.com/show/4WBAHmXEbNlMJmersUvHpp?si=uNHpaDpBQMqyVDGIqlB4Gg" },
         { "title": "Kripto para nedir? Bitcoin 101", "url": "https://open.spotify.com/episode/6aq7ufrod8jvMUKeD3b6lp?si=s6CiTaRQSIKFxEjwdTZ-Ag" },
         { "title": "İsmail Hakkı Polat ile kripto paralar üzerine", "url": "https://open.spotify.com/episode/4R6SnzqE7zeaWFoiJCbrPL?si=rG_Eb7iaSfeHXyiC93rKzw" }
-    ],
-    "youtube":
-    [
-        { "title": "Kripto Sözlük", "url": "https://www.youtube.com/channel/UC5rV0QEGbv0Y-umDwshs_HA/videos" },
-        { "title": "Kripto Teknik", "url": "https://www.youtube.com/channel/UCKdhjP8yA36w4z-oCp5uLHg/videos" },
-        { "title": "KIVANC fr3762", "url": "https://www.youtube.com/channel/UCbOmzoxl_JLrboEvY7KINgg/videos?pbjreload=10" },
-        { "title": "Paratica", "url": "https://www.youtube.com/channel/UCKFlWP2m0UQCVeNgXq3EZWw/videos" }
     ],
     "news":
     [
