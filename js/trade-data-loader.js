@@ -52,8 +52,8 @@ window.onload = () => {
         });
 
         // auto_trade
-        $("h2#auto-trade").text('Auto-Trade Platformu:');   
-        $("h2#auto-trade").after('<ul id="auto-trade-list"></ul>');   
+        $("h2#auto_trade").text('Auto-Trade Platformu:');   
+        $("h2#auto_trade").after('<ul id="auto-trade-list"></ul>');   
         blockchainResources.auto_trade.forEach(element => {
             $("ul#auto-trade-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
