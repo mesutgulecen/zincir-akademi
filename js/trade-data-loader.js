@@ -51,11 +51,11 @@ window.onload = () => {
             $("ul#technical-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
 
-        // auto_trade
-        $("h2#auto_trade").text('Auto-Trade Platformu:');   
-        $("h2#auto_trade").after('<ul id="auto-trade-list"></ul>');   
-        blockchainResources.auto_trade.forEach(element => {
-            $("ul#auto-trade-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
+        // auto
+        $("h2#auto").text('Auto-Trade Platformu:');   
+        $("h2#auto").after('<ul id="auto-list"></ul>');   
+        blockchainResources.auto.forEach(element => {
+            $("ul#auto-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
         
      });
