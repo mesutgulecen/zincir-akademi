@@ -43,7 +43,14 @@ window.onload = () => {
         blockchainResources.exchanges.forEach(element => {
             $("ul#exchanges-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
-            
+	    
+        // auto
+        $("h2#auto").text('Auto-Trade Platformu:');   
+        $("h2#auto").after('<ul id="auto-list"></ul>');   
+        blockchainResources.auto.forEach(element => {
+            $("ul#auto-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
+        });
+	    
         // technical
         $("h2#technical").text('Teknik Analiz:');   
         $("h2#technical").after('<ul id="technical-list"></ul>');   
@@ -51,12 +58,6 @@ window.onload = () => {
             $("ul#technical-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
         });
 
-        // auto
-        $("h2#auto").text('Auto-Trade Platformu:');   
-        $("h2#auto").after('<ul id="auto-list"></ul>');   
-        blockchainResources.auto.forEach(element => {
-            $("ul#auto-list").append('<li><a href="' + element.url + '">' + element.title + '</a></li>');
-        });
         
      });
     
