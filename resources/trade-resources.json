@@ -37,8 +37,7 @@
     "exchanges":
     [
         { "title": "Binance", "url": "https://www.binance.com/?ref=11656707" },
-	{ "title": "Huobi", "url": "https://www.huobi.co/tr-tr/topic/invited/?invite_code=rjtu4" }, 
-        { "title": "Bitay", "url": "https://www.bitay.com/ref/AAF26C0E" },
+	{ "title": "Huobi", "url": "https://www.huobi.co/tr-tr/topic/invited/?invite_code=rjtu4" },
         { "title": "Koinim", "url": "https://koinim.com/" },
         { "title": "BtcTurk", "url": "https://www.btcturk.com/" },
         { "title": "Koineks", "url": "https://koineks.com/" },
